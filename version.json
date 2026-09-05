@@ -1,1 +1,1 @@
-{"version": "1.9.3", "code": "moobi-9f2c17d4", "apkUrl": "https://api.github.com/repos/Mobi428/moobi-apk/contents/moobi-writer-v1.9.3.apk", "note": "v1.9.3：大纲模块修复（超纲定位/伏笔校验/章纲解析/卷数口径）"}
+{"version": "1.10.0", "code": "moobi-9f2c17d4", "apkUrl": "https://api.github.com/repos/Mobi428/moobi-apk/contents/moobi-writer-v1.10.0.apk", "note": "v1.10.0：伏笔合并台账 / 爽点删除 / 弧线全屏化 + 高级模块UI重构"}
