@@ -1,1 +1,1 @@
-{"version": "1.10.5", "code": "moobi-9f2c17d4", "apkUrl": "https://api.github.com/repos/Mobi428/moobi-apk/contents/moobi-writer-v1.10.5.apk", "note": "v1.10.5：上下文分配修复——人物世界观去重、用量条多作品跟随、full 模式检索预留归零、完整层复用、版本注释归位"}
+{"version": "1.10.6", "code": "moobi-9f2c17d4", "apkUrl": "https://api.github.com/repos/Mobi428/moobi-apk/contents/moobi-writer-v1.10.6.apk", "note": "v1.10.6：长书丢细节修复——记忆卡上限4000→8000字、检索实体名加权"}
