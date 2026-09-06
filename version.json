@@ -1,1 +1,1 @@
-{"version": "1.10.4", "code": "moobi-9f2c17d4", "apkUrl": "https://api.github.com/repos/Mobi428/moobi-apk/contents/moobi-writer-v1.10.4.apk", "note": "v1.10.4：动态池 full 判断修正（token 阈值+正文预算补算）、伏笔台账独立化、删死常量"}
+{"version": "1.10.5", "code": "moobi-9f2c17d4", "apkUrl": "https://api.github.com/repos/Mobi428/moobi-apk/contents/moobi-writer-v1.10.5.apk", "note": "v1.10.5：上下文分配修复——人物世界观去重、用量条多作品跟随、full 模式检索预留归零、完整层复用、版本注释归位"}
