@@ -1,1 +1,1 @@
-{"version": "1.10.20", "code": "moobi-9f2c17d4", "apkUrl": "https://api.github.com/repos/Mobi428/moobi-apk/releases/assets/549350651", "note": "v1.10.20：移除基础5步卡片化UI（保留云同步）"}
+{"version": "1.10.22", "code": "moobi-9f2c17d4", "apkUrl": "https://api.github.com/repos/Mobi428/moobi-apk/releases/assets/553279108", "note": "v1.10.22：台账系统质检修复：时间线/数值补自动扫描、撤销大纲误砍去重、伏笔冷启动修复、世界状态一次扫全"}
