@@ -1,1 +1,1 @@
-{"version": "1.11.1", "code": "moobi-9f2c17d4", "apkUrl": "https://api.github.com/repos/Mobi428/moobi-apk/releases/assets/556413850", "note": "v1.11.1：修复分卷规划添加卷/板块不即时刷新"}
+{"version": "1.12.0", "code": "moobi-9f2c17d4", "apkUrl": "https://api.github.com/repos/Mobi428/moobi-apk/releases/assets/556570470", "note": "v1.12.0：设置页正文模型动态检测，收敛正文模型单一来源"}
