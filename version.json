@@ -1,1 +1,1 @@
-{"version": "1.12.4", "code": "moobi-9f2c17d4", "apkUrl": "https://api.github.com/repos/Mobi428/moobi-apk/releases/assets/559909158", "note": "墨笔 v1.12.4：自定义 SplashActivity，一张封面到底"}
+{"version": "1.12.5", "code": "moobi-9f2c17d4", "apkUrl": "https://api.github.com/repos/Mobi428/moobi-apk/releases/assets/559940296", "note": "墨笔 v1.12.5：修复启动闪退（补 installSplashScreen）"}
