@@ -1,1 +1,1 @@
-{"version": "1.12.6", "code": "moobi-9f2c17d4", "apkUrl": "https://api.github.com/repos/Mobi428/moobi-apk/releases/assets/559973677", "note": "墨笔 v1.12.6：修复启动闪退（SplashActivity 改平台 Activity）"}
+{"version": "1.12.7", "code": "moobi-9f2c17d4", "apkUrl": "https://api.github.com/repos/Mobi428/moobi-apk/releases/assets/559997528", "note": "墨笔 v1.12.7：回退入口架构修复闪退 + 完整封面"}
