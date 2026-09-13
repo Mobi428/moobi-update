@@ -1,1 +1,1 @@
-{"version": "1.12.10", "code": "moobi-9f2c17d4", "apkUrl": "https://api.github.com/repos/Mobi428/moobi-apk/releases/assets/561547168", "note": "v1.12.10：修复启动屏图层错乱：白屏/蓝屏/图标裁剪（球锚点+封面分层，系统图标只放球）"}
+{"version": "1.12.11", "code": "moobi-9f2c17d4", "apkUrl": "https://api.github.com/repos/Mobi428/moobi-apk/releases/assets/561616416", "note": "v1.12.11：hotfix：系统启动屏图标改完整缩小版（球+环+卫星）+ 修第二阶段深蓝回退"}
