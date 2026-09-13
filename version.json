@@ -1,1 +1,1 @@
-{"version": "1.12.9", "code": "moobi-9f2c17d4", "apkUrl": "https://api.github.com/repos/Mobi428/moobi-apk/releases/assets/560045962", "note": "墨笔 v1.12.9：修复蓝屏，启动屏完整封面"}
+{"version": "1.12.10", "code": "moobi-9f2c17d4", "apkUrl": "https://api.github.com/repos/Mobi428/moobi-apk/releases/assets/561547168", "note": "v1.12.10：修复启动屏图层错乱：白屏/蓝屏/图标裁剪（球锚点+封面分层，系统图标只放球）"}
