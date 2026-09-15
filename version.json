@@ -1,6 +1,7 @@
 {
-  "version": "1.14.1",
+  "version": "1.15.0",
   "code": "moobi-9f2c17d4",
-  "apkUrl": "https://api.github.com/repos/Mobi428/moobi-apk/releases/assets/566474930",
-  "note": "v1.14.1：修自动更新（7 源并发取最高版本 + 下载自动重试 + 进度条显示 + 失败原因上屏）"
+  "apkUrl": "https://api.github.com/repos/Mobi428/moobi-apk/releases/assets/566554584",
+  "apkUrlMirror": "https://gitee.com/api/v5/repos/novel-archive/moobi-writer-archive/raw/mirror/moobi-writer-v1.15.0.apk",
+  "note": "v1.15.0：修自动更新下载单点依赖 —— GitHub 不通时自动切换国内镜像（码云），无需手动干预"
 }
