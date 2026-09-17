@@ -1,7 +1,7 @@
 {
   "version": "0.4.1",
   "code": "moobi-tavern-3f8a21c6",
-  "apkUrl": "",
-  "apkUrlMirror": "",
+  "apkUrl": "https://api.github.com/repos/Mobi428/moobi-tavern/releases/assets/570948282",
+  "apkUrlMirror": "https://gitee.com/api/v5/repos/novel-archive/moobi-writer-archive/raw/mirror/tavern/tavern-v0.4.1.apk",
   "note": "v0.4.1：修复 thinking 默认开启导致的叙事正文空白（正文 0 字 → 正常），响应速度提升约 3 倍；同步修正 three suites 测试路径解析"
 }
