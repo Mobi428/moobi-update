@@ -1,7 +1,7 @@
 {
-  "version": "0.4.1",
+  "version": "0.4.2",
   "code": "moobi-tavern-3f8a21c6",
   "apkUrl": "https://api.github.com/repos/Mobi428/moobi-tavern/releases/assets/571050996",
   "apkUrlMirror": "https://gitee.com/api/v5/repos/novel-archive/moobi-writer-archive/raw/mirror/tavern/tavern-v0.4.2.apk",
-  "note": "v0.4.1：修复 thinking 默认开启导致的叙事正文空白（正文 0 字 → 正常），响应速度提升约 3 倍；同步修正 three suites 测试路径解析"
+  "note": "v0.4.2：码云镜像改为带钥匙下载（内嵌只读令牌，国内直下）；修复云端出包码云 ref=master；移植 DownloadPlugin 原生下载安装"
 }
