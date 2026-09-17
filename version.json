@@ -1,7 +1,7 @@
 {
-  "version": "1.17.0",
+  "version": "1.17.1",
   "code": "moobi-9f2c17d4",
-  "apkUrl": "https://api.github.com/repos/Mobi428/moobi-apk/contents/apk/moobi-writer-v1.17.0.apk",
-  "apkUrlMirror": "https://gitee.com/api/v5/repos/novel-archive/moobi-writer-archive/raw/mirror/moobi-writer-v1.17.0.apk",
-  "note": "v1.17.0：修复「上传大纲/同步大纲」通道长期不可用（编码不一致）；新增《大纲同步机制》权威文档"
+  "apkUrl": "https://api.github.com/repos/Mobi428/moobi-apk/contents/apk/moobi-writer-v1.17.1.apk",
+  "apkUrlMirror": "https://gitee.com/api/v5/repos/novel-archive/moobi-writer-archive/raw/mirror/moobi-writer-v1.17.1.apk",
+  "note": "v1.17.1：彻底删除设置页的下载进度条（此前只删了动画、条子还在，本次连控件一起移除）；同步大纲通道修复（1.17.0 起）"
 }
