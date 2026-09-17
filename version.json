@@ -1,7 +1,7 @@
 {
-  "version": "1.16.0",
+  "version": "1.17.0",
   "code": "moobi-9f2c17d4",
-  "apkUrl": "https://api.github.com/repos/Mobi428/moobi-apk/releases/assets/566588919",
-  "apkUrlMirror": "https://gitee.com/api/v5/repos/novel-archive/moobi-writer-archive/raw/mirror/moobi-writer-v1.16.0.apk",
-  "note": "v1.16.0：写章节页改版（表单分三块 · 去掉重复信息 · 生成按钮上移）+ 去掉更新时来回摆动的进度条"
+  "apkUrl": "https://api.github.com/repos/Mobi428/moobi-apk/contents/apk/moobi-writer-v1.17.0.apk",
+  "apkUrlMirror": "https://gitee.com/api/v5/repos/novel-archive/moobi-writer-archive/raw/mirror/moobi-writer-v1.17.0.apk",
+  "note": "v1.17.0：修复「上传大纲/同步大纲」通道长期不可用（编码不一致）；新增《大纲同步机制》权威文档"
 }
