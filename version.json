@@ -1,7 +1,6 @@
 {
-  "version": "1.17.2",
-  "code": "moobi-9f2c17d4",
-  "apkUrl": "https://api.github.com/repos/Mobi428/moobi-apk/contents/apk/moobi-writer-v1.17.2.apk",
-  "apkUrlMirror": "https://gitee.com/api/v5/repos/novel-archive/moobi-writer-archive/raw/mirror/moobi-writer-v1.17.2.apk",
-  "note": "v1.17.2：修「同步大纲」书名乱码（å­¤å¨å¤§…）导致校验失败的问题；同时含大纲通道修复与进度条删除"
+  "version": "1.17.3",
+  "code": "moobi-3e71a5c8",
+  "apkUrlMirror": "https://gitee.com/api/v5/repos/novel-archive/moobi-writer-archive/raw/mirror/moobi-writer-v1.17.3.apk",
+  "note": "v1.17.3：下载只走国内源（码云），发版提速；版本检查精简为 3 源"
 }
