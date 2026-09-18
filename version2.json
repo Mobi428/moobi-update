@@ -1,1 +1,1 @@
-{"version": "0.3.1", "code": "moobi-reply", "apkUrl": "https://api.github.com/repos/Mobi428/moobi-apk/releases/assets/573516184", "note": "手机扩展 v0.3.1：主页右上角新增设置入口，自动更新移入设置页"}
+{"version": "0.3.2", "code": "moobi-reply", "apkUrl": "https://api.github.com/repos/Mobi428/moobi-apk/releases/assets/573535194", "note": "手机扩展 v0.3.2：修复启动图标被圆形遮罩裁切 + 删除急救卡系统分享按钮"}
