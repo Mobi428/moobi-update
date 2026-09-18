@@ -1,1 +1,1 @@
-{"version": "0.3.2", "code": "moobi-reply", "apkUrl": "https://api.github.com/repos/Mobi428/moobi-apk/releases/assets/573535194", "note": "手机扩展 v0.3.2：修复启动图标被圆形遮罩裁切 + 删除急救卡系统分享按钮"}
+{"version": "0.3.3", "code": "moobi-reply", "apkUrl": "https://api.github.com/repos/Mobi428/moobi-apk/releases/assets/$ASSET", "note": "手机扩展 v0.3.3：右上角设置按钮改小圆形图标，切换统一打包模板"}
