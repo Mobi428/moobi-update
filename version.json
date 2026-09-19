@@ -1,7 +1,1 @@
-{
-  "version": "1.17.4",
-  "code": "moobi-9f2c17d4",
-  "apkUrl": "https://api.github.com/repos/Mobi428/moobi-apk/contents/apk/moobi-writer-v1.17.4.apk",
-  "apkUrlMirror": "https://gitee.com/api/v5/repos/novel-archive/moobi-writer-archive/raw/mirror/moobi-writer-v1.17.4.apk",
-  "note": "v1.17.4：分卷规划的板块支持标题（选填，便于识别）"
-}
+{"version": "1.17.5", "code": "moobi-9f2c17d4", "apkUrl": "https://api.github.com/repos/Mobi428/moobi-apk/releases/assets/575427512", "apkUrlMirror": "https://gitee.com/api/v5/repos/novel-archive/moobi-writer-archive/raw/mirror/moobi-writer-v1.17.5.apk", "note": "v1.17.5：修复台账类按钮点击无反应（文风档/伏笔/设定/时间线/数值 共5处）"}
