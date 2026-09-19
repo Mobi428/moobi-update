@@ -1,6 +1,6 @@
 {
-  "version": "0.3.7",
+  "version": "0.3.8",
   "code": "moobi-reply",
-  "apkUrl": "https://api.github.com/repos/Mobi428/moobi-apk/releases/assets/574694274",
-  "note": "手机扩展 v0.3.7：地板与楼对齐（一格地=一栋楼地基）+ 仓库合并为 4 栋（源码仓/中枢/发版仓/产物仓）+ 更新仓改为 Gitee 发版仓 + 日志按具体仓库分条"
+  "apkUrl": "https://api.github.com/repos/Mobi428/moobi-apk/releases/assets/574760016",
+  "note": "手机扩展 v0.3.8：移除「云端仓库实时地图」功能，现仅保留 DNS 急救卡（急救卡升至槽位1）"
 }
