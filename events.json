@@ -1,30 +1,34 @@
 {
  "v": 3,
- "ts": "09-19T17:50:47",
+ "ts": "09-19T17:52:24",
  "repos": [
   {
    "id": "moobi-memory",
    "run": "35411712033",
    "time": "09:08:56",
-   "build": "ok"
+   "build": "ok",
+   "last": "f7ed5d1"
   },
   {
    "id": "moobi-main",
    "run": "35326018249",
    "time": "16:48:34",
-   "build": "ok"
+   "build": "ok",
+   "last": "e50534e"
   },
   {
    "id": "moobi-tavern",
    "run": "35400193295",
    "time": "06:11:50",
-   "build": "ok"
+   "build": "ok",
+   "last": "e1cd42a"
   },
   {
    "id": "moobi-reply",
    "run": "35402528198",
    "time": "06:42:35",
-   "build": "ok"
+   "build": "ok",
+   "last": "ba1c841"
   },
   {
    "id": "moobi-update",
@@ -35,7 +39,6 @@
   {
    "id": "moobi-apk",
    "build": "ok",
-   "ago": "无 workflow",
    "time": "06:44:20",
    "asset": "moobi-reply-v0.3.3.apk",
    "size": "3.7MB"
