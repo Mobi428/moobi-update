@@ -1,1 +1,6 @@
-{"version": "0.3.5", "code": "moobi-reply", "apkUrl": "https://api.github.com/repos/Mobi428/moobi-apk/releases/assets/574580143", "note": "手机扩展 v0.3.5：云端仓库实时地图接入真实数据（六栋楼显示构建状态/进度/产物），修工人遮挡名牌、小屏图例切名牌、长产物名换行三个显示问题"}
+{
+  "version": "0.3.6",
+  "code": "moobi-reply",
+  "apkUrl": "https://api.github.com/repos/Mobi428/moobi-apk/releases/assets/574630225",
+  "note": "手机扩展 v0.3.6：修 CORS 致命 bug（地图移除 Authorization 头，真机终于能亮 LIVE）"
+}
