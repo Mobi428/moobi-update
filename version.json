@@ -1,7 +1,7 @@
 {
-  "version": "1.17.10",
+  "version": "1.17.11",
   "code": "moobi-9f2c17d4",
-  "apkUrl": "https://api.github.com/repos/Mobi428/moobi-apk/releases/assets/576894272",
-  "apkUrlMirror": "https://gitee.com/api/v5/repos/novel-archive/moobi-writer-archive/raw/mirror/moobi-writer-v1.17.10.apk",
+  "apkUrl": "https://api.github.com/repos/Mobi428/moobi-main/releases/assets/576988128",
+  "apkUrlMirror": "https://gitee.com/api/v5/repos/novel-archive/moobi-writer-archive/raw/mirror/moobi-writer-v1.17.11.apk",
   "note": "v1.17.10：修大纲与正文 4 项（同步覆盖加确认 / 汇报分卷不再乱码 / 卷定位去硬编码 / 伏笔位置校验生效）"
 }
