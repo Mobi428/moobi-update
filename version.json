@@ -1,7 +1,7 @@
 {
-  "version": "1.17.9",
+  "version": "1.17.10",
   "code": "moobi-9f2c17d4",
-  "apkUrl": "https://api.github.com/repos/Mobi428/moobi-apk/releases/assets/575557030",
-  "apkUrlMirror": "https://gitee.com/api/v5/repos/novel-archive/moobi-writer-archive/raw/mirror/moobi-writer-v1.17.9.apk",
-  "note": "v1.17.9：修上下文「口径漂移」漏网（记忆卡文案三处不一致 + 用量条检索按实占统计）"
+  "apkUrl": "https://api.github.com/repos/Mobi428/moobi-apk/releases/assets/576894272",
+  "apkUrlMirror": "https://gitee.com/api/v5/repos/novel-archive/moobi-writer-archive/raw/mirror/moobi-writer-v1.17.10.apk",
+  "note": "v1.17.10：修大纲与正文 4 项（同步覆盖加确认 / 汇报分卷不再乱码 / 卷定位去硬编码 / 伏笔位置校验生效）"
 }
