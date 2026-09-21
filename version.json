@@ -1,7 +1,7 @@
 {
   "version": "1.17.14",
   "code": "moobi-9f2c17d4",
-  "apkUrl": "https://api.github.com/repos/Mobi428/moobi-main/releases/assets/579687543",
+  "apkUrl": "https://api.github.com/repos/Mobi428/moobi-main/releases/assets/579716112",
   "apkUrlMirror": "https://gitee.com/api/v5/repos/novel-archive/moobi-writer-archive/raw/mirror/moobi-writer-v1.17.14.apk",
   "note": "v1.17.12：章节目录加卷结构（卷头分组 + [下一卷][完本] 横排按钮 + 确认框；卷边界亲手点不预设；卷名实时从主线剧情取）"
 }
