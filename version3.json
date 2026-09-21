@@ -1,7 +1,7 @@
 {
   "version": "0.4.4",
   "code": "moobi-tavern-3f8a21c6",
-  "apkUrl": "https://api.github.com/repos/Mobi428/moobi-tavern/releases/assets/579678490",
+  "apkUrl": "https://api.github.com/repos/Mobi428/moobi-tavern/releases/assets/579687663",
   "apkUrlMirror": "https://gitee.com/api/v5/repos/novel-archive/moobi-writer-archive/raw/mirror/tavern/tavern-v0.4.4.apk",
   "note": "v0.4.3：签名统一为 moobi.p12（别名 moobi），与软件1/软件2 同一把签名；需卸载旧版重装"
 }
