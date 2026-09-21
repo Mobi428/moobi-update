@@ -1,7 +1,7 @@
 {
   "version": "0.3.9",
   "code": "moobi-reply",
-  "apkUrl": "https://api.github.com/repos/Mobi428/moobi-reply/releases/assets/579679186",
+  "apkUrl": "https://api.github.com/repos/Mobi428/moobi-reply/releases/assets/579687865",
   "note": "手机扩展 v0.3.8：移除「云端仓库实时地图」功能，现仅保留 DNS 急救卡（急救卡升至槽位1）",
   "apkUrlMirror": "https://gitee.com/api/v5/repos/novel-archive/moobi-writer-archive/raw/mirror/moobi-reply-v0.3.9.apk"
 }
