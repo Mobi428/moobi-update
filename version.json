@@ -1,7 +1,7 @@
 {
   "version": "1.17.18",
   "code": "moobi-9f2c17d4",
-  "apkUrl": "https://api.github.com/repos/Mobi428/moobi-apk/releases/assets/588880446",
+  "apkUrl": "https://api.github.com/repos/Mobi428/moobi-apk/releases/assets/588979364",
   "apkUrlMirror": "https://gitee.com/api/v5/repos/novel-archive/moobi-writer-archive/raw/mirror/moobi-writer-v1.17.18.apk",
   "note": "v1.17.17：修复成长弧线三连 bug（外面有字数、里头空白、改了存不上）——四格改独立字段直存直取，砍掉解析中间层；顺带修本地存储写失败静默吞错。"
 }
