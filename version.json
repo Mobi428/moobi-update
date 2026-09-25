@@ -3,5 +3,5 @@
   "code": "moobi-9f2c17d4",
   "apkUrl": "https://api.github.com/repos/Mobi428/moobi-apk/releases/assets/588979364",
   "apkUrlMirror": "https://gitee.com/api/v5/repos/novel-archive/moobi-writer-archive/raw/mirror/moobi-writer-v1.17.18.apk",
-  "note": "v1.17.17：修复成长弧线三连 bug（外面有字数、里头空白、改了存不上）——四格改独立字段直存直取，砍掉解析中间层；顺带修本地存储写失败静默吞错。"
+  "note": "v1.17.18：修复成长弧线「输入后存不上」——上版把输入框事件误改成 onchange，而本 App 切页面会整页替换 DOM，change 事件不触发导致一个字都没存，现已改回 oninput（输入即存）；同时把桌面图标对齐软件2/3（星球图）。"
 }
