@@ -1,7 +1,7 @@
 {
-  "version": "1.17.16",
+  "version": "1.17.17",
   "code": "moobi-9f2c17d4",
   "apkUrl": "https://api.github.com/repos/Mobi428/moobi-apk/releases/assets/581007005",
-  "apkUrlMirror": "https://gitee.com/api/v5/repos/novel-archive/moobi-writer-archive/raw/mirror/moobi-writer-v1.17.16.apk",
+  "apkUrlMirror": "https://gitee.com/api/v5/repos/novel-archive/moobi-writer-archive/raw/mirror/moobi-writer-v1.17.17.apk",
   "note": "v1.17.16：清理三个孤儿函数（卷定位相关的死代码）；无功能变化"
 }
