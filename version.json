@@ -3,5 +3,5 @@
   "code": "moobi-9f2c17d4",
   "apkUrl": "https://api.github.com/repos/Mobi428/moobi-apk/releases/assets/589114267",
   "apkUrlMirror": "https://gitee.com/api/v5/repos/novel-archive/moobi-writer-archive/raw/mirror/moobi-writer-v1.17.20.apk",
-  "note": "v1.17.18：修复成长弧线「输入后存不上」——上版把输入框事件误改成 onchange，而本 App 切页面会整页替换 DOM，change 事件不触发导致一个字都没存，现已改回 oninput（输入即存）；同时把桌面图标对齐软件2/3（星球图）。"
+  "note": "v1.17.20：修复高级模块三处隐患 —— ① 备份/存档往返后伏笔台账不再丢失、待确认区不再被清空；② 四个台账点「确认」不再误删别的提议；③ 伏笔筛选切换作品后自动重置，不再串味。"
 }
