@@ -1,7 +1,7 @@
 {
   "version": "1.17.26",
   "code": "moobi-9f2c17d4",
-  "apkUrl": "https://api.github.com/repos/Mobi428/moobi-apk/releases/assets/591571344",
+  "apkUrl": "https://api.github.com/repos/Mobi428/moobi-apk/releases/assets/591619135",
   "apkUrlMirror": "https://gitee.com/api/v5/repos/novel-archive/moobi-writer-archive/raw/mirror/moobi-writer-v1.17.26.apk",
-  "note": "v1.17.25：章节字数卡 3900-4200 → 2600-2800（番茄节奏）"
+  "note": "v1.17.26：字数改 2200-2600；改稿加预览确认（满意覆盖/不满意丢弃，原稿全程不动）"
 }
