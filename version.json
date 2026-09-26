@@ -1,7 +1,7 @@
 {
-  "version": "1.17.22",
+  "version": "1.17.23",
   "code": "moobi-9f2c17d4",
   "apkUrl": "https://api.github.com/repos/Mobi428/moobi-apk/releases/assets/591344223",
-  "apkUrlMirror": "https://gitee.com/api/v5/repos/novel-archive/moobi-writer-archive/raw/mirror/moobi-writer-v1.17.22.apk",
+  "apkUrlMirror": "https://gitee.com/api/v5/repos/novel-archive/moobi-writer-archive/raw/mirror/moobi-writer-v1.17.23.apk",
   "note": "v1.17.22：修复「重新生成」变续写 + 只写2000字"
 }
