@@ -1,7 +1,7 @@
 {
   "version": "1.17.21",
   "code": "moobi-9f2c17d4",
-  "apkUrl": "https://api.github.com/repos/Mobi428/moobi-apk/releases/assets/589114267",
+  "apkUrl": "https://api.github.com/repos/Mobi428/moobi-apk/releases/assets/591053113",
   "apkUrlMirror": "https://gitee.com/api/v5/repos/novel-archive/moobi-writer-archive/raw/mirror/moobi-writer-v1.17.21.apk",
-  "note": "v1.17.20：修复高级模块三处隐患 —— ① 备份/存档往返后伏笔台账不再丢失、待确认区不再被清空；② 四个台账点「确认」不再误删别的提议；③ 伏笔筛选切换作品后自动重置，不再串味。"
+  "note": "v1.17.21 修「扫描永远扫不出东西」+ 请求超时\\n\\n根因：callChat 返回 {ok,text,error} 对象，三个扫描器却当字符串用（String(raw)），\\n拿到 \"[object Object]\" → 无 {} → 一律 return [] → 界面误报「未发现」。\\n\\n- ai.js：三扫描器改用 _r.ok/_r.text，失败返回 {error}（不再伪装成空）\\n- ai.js：callChat 加 60s 超时（AbortController），超时单独提示\\n- views-{setting,foreshadow,timeline,values}.js：前置 error 判断并弹出真实错误\\n- 版本号四处同步 1.17.21 / versionCode 12721"
 }
