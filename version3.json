@@ -1,7 +1,7 @@
 {
   "version": "0.4.6",
   "code": "moobi-tavern-3f8a21c6",
-  "apkUrl": "https://api.github.com/repos/Mobi428/moobi-apk/releases/assets/597339292",
+  "apkUrl": "https://api.github.com/repos/Mobi428/moobi-apk/releases/assets/597395319",
   "apkUrlMirror": "https://gitee.com/api/v5/repos/novel-archive/moobi-writer-archive/raw/mirror/tavern-v0.4.6.apk",
-  "note": "v0.4.5：fix(tavern): 修复「新建世界无限循环」+ 版本 0.4.5"
+  "note": "v0.4.6：fix(tavern): 修复「点下载并安装却报 no update」+ 0.4.6"
 }
