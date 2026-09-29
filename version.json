@@ -1,7 +1,7 @@
 {
   "version": "1.17.26",
   "code": "moobi-9f2c17d4",
-  "apkUrl": "https://api.github.com/repos/Mobi428/moobi-apk/releases/assets/591619135",
+  "apkUrl": "https://api.github.com/repos/Mobi428/moobi-apk/releases/assets/598920811",
   "apkUrlMirror": "https://gitee.com/api/v5/repos/novel-archive/moobi-writer-archive/raw/mirror/moobi-writer-v1.17.26.apk",
-  "note": "v1.17.26：字数改 2200-2600；改稿加预览确认（满意覆盖/不满意丢弃，原稿全程不动）"
+  "note": "v1.17.26：fix(update): 检查更新补国内主源（码云）并置顶，境外源降为辅助"
 }
