@@ -1,7 +1,7 @@
 {
   "version": "0.4.7",
   "code": "moobi-tavern-3f8a21c6",
-  "apkUrl": "https://api.github.com/repos/Mobi428/moobi-apk/releases/assets/597395319",
+  "apkUrl": "https://api.github.com/repos/Mobi428/moobi-apk/releases/assets/597447155",
   "apkUrlMirror": "https://gitee.com/api/v5/repos/novel-archive/moobi-writer-archive/raw/mirror/tavern-v0.4.7.apk",
-  "note": "v0.4.6：fix(tavern): 修复「点下载并安装却报 no update」+ 0.4.6"
+  "note": "v0.4.7：feat(v0.4.7): 设置页新增「上传剧本」通道"
 }
