@@ -1,7 +1,7 @@
 {
-  "version": "0.4.8",
+  "version": "0.6.0",
   "code": "moobi-tavern-3f8a21c6",
   "apkUrl": "https://api.github.com/repos/Mobi428/moobi-apk/releases/assets/597482946",
-  "apkUrlMirror": "https://gitee.com/api/v5/repos/novel-archive/moobi-writer-archive/raw/mirror/tavern-v0.4.8.apk",
+  "apkUrlMirror": "https://gitee.com/api/v5/repos/novel-archive/moobi-writer-archive/raw/mirror/tavern-v0.6.0.apk",
   "note": "v0.4.8：fix(v0.4.8): 修「自动更新下载失败」——JS 与原生插件通信约定错位"
 }
