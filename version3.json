@@ -1,7 +1,7 @@
 {
-  "version": "0.6.1",
+  "version": "0.6.2",
   "code": "moobi-tavern-3f8a21c6",
   "apkUrl": "https://api.github.com/repos/Mobi428/moobi-apk/releases/assets/598912325",
-  "apkUrlMirror": "https://gitee.com/api/v5/repos/novel-archive/moobi-writer-archive/raw/mirror/tavern-v0.6.1.apk",
+  "apkUrlMirror": "https://gitee.com/api/v5/repos/novel-archive/moobi-writer-archive/raw/mirror/tavern-v0.6.2.apk",
   "note": "v0.6.1：test(软件3): 修 #47 类过期断言 —— 「所有源都在 moobi-update 仓」写死了实现，加国内主源后必失败。改为断言意图：每路都指向软件3 自己的更新清单（moobi-update 或码云镜像仓）"
 }
