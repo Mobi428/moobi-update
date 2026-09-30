@@ -1,8 +1,8 @@
 {
   "version": "1.17.28",
   "code": "moobi-9f2c17d4",
-  "apkUrl": "https://api.github.com/repos/Mobi428/moobi-apk/releases/assets/601562143",
+  "apkUrl": "https://api.github.com/repos/Mobi428/moobi-apk/releases/assets/601803592",
   "apkUrlMirror": "https://gitee.com/api/v5/repos/novel-archive/moobi-writer-archive/raw/mirror/moobi-writer-v1.17.28.apk",
-  "note": "v1.17.27：feat(update): 接入阿里云 OSS 直链 (v1.17.27)",
+  "note": "v1.17.28：发测试版 v1.17.28：版本号三处同步(ai.js/capacitor.config.json/build.gradle)+versionCode 1017028(唯一规则)",
   "apkUrlOss": "https://apk.mobi428.top/releases/moobi-writer-v1.17.28-e1tk6bqpp4.apk"
 }
