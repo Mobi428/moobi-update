@@ -1,8 +1,8 @@
 {
   "version": "0.6.6",
   "code": "moobi-tavern-3f8a21c6",
-  "apkUrl": "https://api.github.com/repos/Mobi428/moobi-apk/releases/assets/601804106",
+  "apkUrl": "https://api.github.com/repos/Mobi428/moobi-apk/releases/assets/601934026",
   "apkUrlMirror": "https://gitee.com/api/v5/repos/novel-archive/moobi-writer-archive/raw/mirror/tavern-v0.6.6.apk",
-  "note": "v0.6.5：发测试版 v0.6.5：版本号四处同步(ai.js/capacitor.config.json两处/build.gradle)+versionCode 6005(唯一规则)",
+  "note": "v0.6.6：恢复被误删的仓库文件",
   "apkUrlOss": "https://apk.mobi428.top/releases/tavern-v0.6.6-hbo7fhdy8j.apk"
 }
