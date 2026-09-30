@@ -1,8 +1,8 @@
 {
   "version": "1.17.27",
   "code": "moobi-9f2c17d4",
-  "apkUrl": "https://api.github.com/repos/Mobi428/moobi-apk/releases/assets/598920811",
+  "apkUrl": "https://api.github.com/repos/Mobi428/moobi-apk/releases/assets/601562143",
   "apkUrlMirror": "https://gitee.com/api/v5/repos/novel-archive/moobi-writer-archive/raw/mirror/moobi-writer-v1.17.27.apk",
-  "note": "v1.17.26：fix(update): 检查更新补国内主源（码云）并置顶，境外源降为辅助",
+  "note": "v1.17.27：feat(update): 接入阿里云 OSS 直链 (v1.17.27)",
   "apkUrlOss": "https://apk.mobi428.top/releases/moobi-writer-v1.17.27-1gpvwy0rz9.apk"
 }
