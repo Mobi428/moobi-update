@@ -1,8 +1,8 @@
 {
   "version": "0.6.4",
   "code": "moobi-tavern-3f8a21c6",
-  "apkUrl": "https://api.github.com/repos/Mobi428/moobi-apk/releases/assets/601423838",
+  "apkUrl": "https://api.github.com/repos/Mobi428/moobi-apk/releases/assets/601732017",
   "apkUrlMirror": "https://gitee.com/api/v5/repos/novel-archive/moobi-writer-archive/raw/mirror/tavern-v0.6.4.apk",
-  "note": "v0.6.3：版本号 0.6.2 → 0.6.3（三处同步 + versionCode 4008→4009）",
+  "note": "v0.6.4：precheck 判据改为唯一版本序号规则（废掉软件3 私有的 4xxx 段规则）：versionCode = 主×1000000+次×1000+修订",
   "apkUrlOss": "https://apk.mobi428.top/releases/tavern-v0.6.4-z8wji3mz3s.apk"
 }
