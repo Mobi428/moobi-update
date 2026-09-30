@@ -1,7 +1,7 @@
 {
   "version": "0.6.2",
   "code": "moobi-tavern-3f8a21c6",
-  "apkUrl": "https://api.github.com/repos/Mobi428/moobi-apk/releases/assets/600535470",
+  "apkUrl": "https://api.github.com/repos/Mobi428/moobi-apk/releases/assets/600774104",
   "apkUrlMirror": "https://gitee.com/api/v5/repos/novel-archive/moobi-writer-archive/raw/mirror/tavern-v0.6.2.apk",
   "note": "v0.6.2：修复国内网络无法检查更新；修正更新说明文字"
 }
