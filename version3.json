@@ -1,8 +1,8 @@
 {
   "version": "0.6.3",
   "code": "moobi-tavern-3f8a21c6",
-  "apkUrl": "https://api.github.com/repos/Mobi428/moobi-apk/releases/assets/601042511",
+  "apkUrl": "https://api.github.com/repos/Mobi428/moobi-apk/releases/assets/601423838",
   "apkUrlMirror": "https://gitee.com/api/v5/repos/novel-archive/moobi-writer-archive/raw/mirror/tavern-v0.6.3.apk",
-  "note": "v0.6.2：feat(更新): 新增 OSS 直链为首选下载源（apkUrlOss）",
+  "note": "v0.6.3：版本号 0.6.2 → 0.6.3（三处同步 + versionCode 4008→4009）",
   "apkUrlOss": "https://apk.mobi428.top/releases/tavern-v0.6.3-xja1atys34.apk"
 }
