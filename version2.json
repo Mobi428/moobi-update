@@ -1,7 +1,8 @@
 {
-  "version": "0.3.9",
+  "version": "0.3.10",
   "code": "moobi-reply",
   "apkUrl": "https://api.github.com/repos/Mobi428/moobi-apk/releases/assets/598928818",
   "note": "v0.3.9：fix(update): 检查更新与下载补国内主源（码云），由单点改为多源并发",
-  "apkUrlMirror": "https://gitee.com/api/v5/repos/novel-archive/moobi-writer-archive/raw/mirror/moobi-reply-v0.3.9.apk"
+  "apkUrlMirror": "https://gitee.com/api/v5/repos/novel-archive/moobi-writer-archive/raw/mirror/moobi-reply-v0.3.10.apk",
+  "apkUrlOss": "https://apk.mobi428.top/releases/moobi-reply-v0.3.10-42yblggvjr.apk"
 }
