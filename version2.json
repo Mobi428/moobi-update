@@ -1,8 +1,8 @@
 {
   "version": "0.3.11",
   "code": "moobi-reply",
-  "apkUrl": "https://api.github.com/repos/Mobi428/moobi-apk/releases/assets/601613244",
-  "note": "v0.3.10：feat(update): 接入阿里云 OSS 直链 (v0.3.10)",
+  "apkUrl": "https://api.github.com/repos/Mobi428/moobi-apk/releases/assets/601804468",
+  "note": "v0.3.11：发测试版 v0.3.11：版本号三处同步(update.js/capacitor.config.json/build.gradle)+versionCode 3011(唯一规则)",
   "apkUrlMirror": "https://gitee.com/api/v5/repos/novel-archive/moobi-writer-archive/raw/mirror/moobi-reply-v0.3.11.apk",
   "apkUrlOss": "https://apk.mobi428.top/releases/moobi-reply-v0.3.11-wvf6rmjixs.apk"
 }
