@@ -1,8 +1,8 @@
 {
-  "version": "0.6.6",
+  "version": "0.7.0",
   "code": "moobi-tavern-3f8a21c6",
   "apkUrl": "https://api.github.com/repos/Mobi428/moobi-apk/releases/assets/601934026",
-  "apkUrlMirror": "https://gitee.com/api/v5/repos/novel-archive/moobi-writer-archive/raw/mirror/tavern-v0.6.6.apk",
+  "apkUrlMirror": "https://gitee.com/api/v5/repos/novel-archive/moobi-writer-archive/raw/mirror/tavern-v0.7.0.apk",
   "note": "v0.6.6：恢复被误删的仓库文件",
-  "apkUrlOss": "https://apk.mobi428.top/releases/tavern-v0.6.6-hbo7fhdy8j.apk"
+  "apkUrlOss": "https://apk.mobi428.top/releases/tavern-v0.7.0-i6ujk612e5.apk"
 }
