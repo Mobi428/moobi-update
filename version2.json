@@ -1,8 +1,8 @@
 {
   "version": "0.4.2",
   "code": "moobi-reply",
-  "apkUrl": "https://api.github.com/repos/Mobi428/moobi-apk/releases/assets/608640856",
-  "note": "v0.4.1：面板白屏根治（androidScheme https→http）+ 面板加载兜底（超时给「用浏览器打开」）；版本号 0.4.0→0.4.1",
+  "apkUrl": "https://api.github.com/repos/Mobi428/moobi-apk/releases/assets/608718496",
+  "note": "v0.4.2：fix(v0.4.2): 修「页面整体上移、顶栏被状态栏裁掉」—— Android15 强制 edge-to-edge，Capacitor6 不补 insets；给 WebView 挂 WindowInsets 监听补 padding + CSS 补 --safe-t",
   "apkUrlMirror": "https://gitee.com/api/v5/repos/novel-archive/moobi-writer-archive/raw/mirror/moobi-reply-v0.4.2.apk",
   "apkUrlOss": "https://apk.mobi428.top/releases/moobi-reply-v0.4.2-czmff1kv1f.apk",
   "released_by": "release.sh@0.4.1"
