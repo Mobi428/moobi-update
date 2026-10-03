@@ -1,8 +1,8 @@
 {
   "version": "0.4.1",
   "code": "moobi-reply",
-  "apkUrl": "https://api.github.com/repos/Mobi428/moobi-apk/releases/assets/607647270",
-  "note": "v0.4.0：build.gradle versionCode 修正为 4000",
+  "apkUrl": "https://api.github.com/repos/Mobi428/moobi-apk/releases/assets/608640856",
+  "note": "v0.4.1：面板白屏根治（androidScheme https→http）+ 面板加载兜底（超时给「用浏览器打开」）；版本号 0.4.0→0.4.1",
   "apkUrlMirror": "https://gitee.com/api/v5/repos/novel-archive/moobi-writer-archive/raw/mirror/moobi-reply-v0.4.1.apk",
   "apkUrlOss": "https://apk.mobi428.top/releases/moobi-reply-v0.4.1-8f9z45xpse.apk",
   "released_by": "release.sh@0.4.0"
