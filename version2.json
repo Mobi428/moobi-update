@@ -1,8 +1,8 @@
 {
-  "version": "0.3.12",
+  "version": "0.4.0",
   "code": "moobi-reply",
   "apkUrl": "https://api.github.com/repos/Mobi428/moobi-apk/releases/assets/601825670",
   "note": "v0.3.12：标准接口对齐：补 capacitor.versionCode + 新增 tests/precheck.js；版本号 → 0.3.12/3012",
-  "apkUrlMirror": "https://gitee.com/api/v5/repos/novel-archive/moobi-writer-archive/raw/mirror/moobi-reply-v0.3.12.apk",
-  "apkUrlOss": "https://apk.mobi428.top/releases/moobi-reply-v0.3.12-48ci7pxgk2.apk"
+  "apkUrlMirror": "https://gitee.com/api/v5/repos/novel-archive/moobi-writer-archive/raw/mirror/moobi-reply-v0.4.0.apk",
+  "apkUrlOss": "https://apk.mobi428.top/releases/moobi-reply-v0.4.0-g0b04itgb3.apk"
 }
