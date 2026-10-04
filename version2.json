@@ -5,5 +5,5 @@
   "note": "v0.4.3：fix(v0.4.3): 修「量化面板内容塌在顶部、下方大片空白」—— iframe height:100% 在 WebView 里解析失效塌成默认150px；改绝对定位 inset:0 铺满（沙箱 Playwright 实测 150→772px）",
   "apkUrlMirror": "https://gitee.com/api/v5/repos/novel-archive/moobi-writer-archive/raw/mirror/moobi-reply-v0.4.3.apk",
   "apkUrlOss": "https://apk.mobi428.top/releases/moobi-reply-v0.4.3-yxw97rfh7o.apk",
-  "released_by": "release.sh@0.4.2"
+  "released_by": "release.sh@0.4.3"
 }
