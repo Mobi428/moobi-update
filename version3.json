@@ -1,9 +1,9 @@
 {
-  "version": "0.7.2",
+  "version": "0.8.3",
   "code": "moobi-tavern-3f8a21c6",
   "apkUrl": "https://api.github.com/repos/Mobi428/moobi-apk/releases/assets/606751437",
-  "apkUrlMirror": "https://gitee.com/api/v5/repos/novel-archive/moobi-writer-archive/raw/mirror/tavern-v0.7.2.apk",
+  "apkUrlMirror": "https://gitee.com/api/v5/repos/novel-archive/moobi-writer-archive/raw/mirror/tavern-v0.8.3.apk",
   "note": "v0.7.2：revert: 版本号回到 0.7.2（黑盒发 0.7.2 前置）",
-  "apkUrlOss": "https://apk.mobi428.top/releases/tavern-v0.7.2-tb9b65gjxr.apk",
+  "apkUrlOss": "https://apk.mobi428.top/releases/tavern-v0.8.3-9dziw1fqn.apk",
   "released_by": "release.sh@0.7.2"
 }
