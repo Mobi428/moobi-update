@@ -5,6 +5,6 @@
   "apkUrlMirror": "https://gitee.com/api/v5/repos/novel-archive/moobi-writer-archive/raw/mirror/tavern-v0.8.6.apk",
   "note": "v0.8.6：fix(test): 适配世界状态驱动开局后的测试",
   "apkUrlOss": "https://apk.mobi428.top/releases/tavern-v0.8.6-qurc288c8z.apk",
-  "released_by": "release.sh@0.8.5",
-  "released_sig": "0e05d9e96e2d4facc153acdfe567816f75a0e8de1c9a3511faf1aec2daa19f1f"
+  "released_by": "release.sh@0.8.6",
+  "released_sig": "8f1015745f2876be1bbb61ddfac62cfb4b3caab41f6fe5322c0604c2bef381c4"
 }
