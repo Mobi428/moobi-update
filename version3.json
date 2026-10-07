@@ -1,9 +1,9 @@
 {
   "version": "0.8.3",
   "code": "moobi-tavern-3f8a21c6",
-  "apkUrl": "https://api.github.com/repos/Mobi428/moobi-apk/releases/assets/606751437",
+  "apkUrl": "https://api.github.com/repos/Mobi428/moobi-apk/releases/assets/618426961",
   "apkUrlMirror": "https://gitee.com/api/v5/repos/novel-archive/moobi-writer-archive/raw/mirror/tavern-v0.8.3.apk",
-  "note": "v0.7.2：revert: 版本号回到 0.7.2（黑盒发 0.7.2 前置）",
+  "note": "v0.8.3：docs: 新增第9步 UI联调(可玩性验证) + 第10步真人试玩(暂定)，第8步关档",
   "apkUrlOss": "https://apk.mobi428.top/releases/tavern-v0.8.3-9dziw1fqn.apk",
   "released_by": "release.sh@0.7.2"
 }
