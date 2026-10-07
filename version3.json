@@ -1,10 +1,10 @@
 {
-  "version": "0.8.6",
+  "version": "0.8.7",
   "code": "moobi-tavern-3f8a21c6",
   "apkUrl": "https://api.github.com/repos/Mobi428/moobi-apk/releases/assets/619772915",
-  "apkUrlMirror": "https://gitee.com/api/v5/repos/novel-archive/moobi-writer-archive/raw/mirror/tavern-v0.8.6.apk",
+  "apkUrlMirror": "https://gitee.com/api/v5/repos/novel-archive/moobi-writer-archive/raw/mirror/tavern-v0.8.7.apk",
   "note": "v0.8.6：fix(test): 适配世界状态驱动开局后的测试",
-  "apkUrlOss": "https://apk.mobi428.top/releases/tavern-v0.8.6-qurc288c8z.apk",
+  "apkUrlOss": "https://apk.mobi428.top/releases/tavern-v0.8.7-4naqfbcqc7.apk",
   "released_by": "release.sh@0.8.6",
   "released_sig": "8f1015745f2876be1bbb61ddfac62cfb4b3caab41f6fe5322c0604c2bef381c4"
 }
