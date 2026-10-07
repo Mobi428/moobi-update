@@ -5,5 +5,6 @@
   "apkUrlMirror": "https://gitee.com/api/v5/repos/novel-archive/moobi-writer-archive/raw/mirror/tavern-v0.8.3.apk",
   "note": "v0.8.3：docs: 新增第9步 UI联调(可玩性验证) + 第10步真人试玩(暂定)，第8步关档",
   "apkUrlOss": "https://apk.mobi428.top/releases/tavern-v0.8.3-9dziw1fqn.apk",
-  "released_by": "release.sh@0.8.3"
+  "released_by": "release.sh@0.8.3",
+  "released_sig": "ff26be4032bb04170ff80144a597272b99f2aaab99e9a16d92131bda173bd0a1"
 }
