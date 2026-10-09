@@ -1,10 +1,10 @@
 {
-  "version": "0.8.10",
+  "version": "0.8.11",
   "code": "moobi-tavern-3f8a21c6",
   "apkUrl": "https://api.github.com/repos/Mobi428/moobi-apk/releases/assets/626025240",
-  "apkUrlMirror": "https://gitee.com/api/v5/repos/novel-archive/moobi-writer-archive/raw/mirror/tavern-v0.8.10.apk",
+  "apkUrlMirror": "https://gitee.com/api/v5/repos/novel-archive/moobi-writer-archive/raw/mirror/tavern-v0.8.11.apk",
   "note": "v0.8.10：test(状态面板): test_r2b 断言改到新行为（角色页只放我 / 附近页 / 地图两层）",
-  "apkUrlOss": "https://apk.mobi428.top/releases/tavern-v0.8.10-zud5cr36ny.apk",
+  "apkUrlOss": "https://apk.mobi428.top/releases/tavern-v0.8.11-ftaa00xmn6.apk",
   "released_by": "release.sh@0.8.10",
   "released_sig": "8332abf1657c84bd242eb78ab6d18277fd4e459a40eb08088d224d4b8e9dd6e1"
 }
