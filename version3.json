@@ -1,10 +1,10 @@
 {
-  "version": "0.8.11",
+  "version": "0.8.12",
   "code": "moobi-tavern-3f8a21c6",
   "apkUrl": "https://api.github.com/repos/Mobi428/moobi-apk/releases/assets/626129287",
-  "apkUrlMirror": "https://gitee.com/api/v5/repos/novel-archive/moobi-writer-archive/raw/mirror/tavern-v0.8.11.apk",
+  "apkUrlMirror": "https://gitee.com/api/v5/repos/novel-archive/moobi-writer-archive/raw/mirror/tavern-v0.8.12.apk",
   "note": "v0.8.11：fix(开局): 「开始游戏」防连点 v0.8.11",
-  "apkUrlOss": "https://apk.mobi428.top/releases/tavern-v0.8.11-ftaa00xmn6.apk",
+  "apkUrlOss": "https://apk.mobi428.top/releases/tavern-v0.8.12-4qgebczu9p.apk",
   "released_by": "release.sh@0.8.11",
   "released_sig": "275612ddfbf17f5748c6952e5dbdde20156ef5d62e096eb83cc08bf42b7928a3"
 }
