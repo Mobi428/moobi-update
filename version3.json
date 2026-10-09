@@ -5,6 +5,6 @@
   "apkUrlMirror": "https://gitee.com/api/v5/repos/novel-archive/moobi-writer-archive/raw/mirror/tavern-v0.8.12.apk",
   "note": "v0.8.12：fix(开局): 开场文不再说两遍 v0.8.12",
   "apkUrlOss": "https://apk.mobi428.top/releases/tavern-v0.8.12-4qgebczu9p.apk",
-  "released_by": "release.sh@0.8.11",
-  "released_sig": "275612ddfbf17f5748c6952e5dbdde20156ef5d62e096eb83cc08bf42b7928a3"
+  "released_by": "release.sh@0.8.12",
+  "released_sig": "98e65c464471d4780c5878274a051634a0180e8980439d3bf0a933e0535ed173"
 }
