@@ -5,6 +5,6 @@
   "apkUrlMirror": "https://gitee.com/api/v5/repos/novel-archive/moobi-writer-archive/raw/mirror/tavern-v0.8.10.apk",
   "note": "v0.8.10：test(状态面板): test_r2b 断言改到新行为（角色页只放我 / 附近页 / 地图两层）",
   "apkUrlOss": "https://apk.mobi428.top/releases/tavern-v0.8.10-zud5cr36ny.apk",
-  "released_by": "release.sh@0.8.9",
-  "released_sig": "f90b7c14feb92ebf4b27047b8a6ec0ba98eba1fb5415c459640c490c54c7a24a"
+  "released_by": "release.sh@0.8.10",
+  "released_sig": "8332abf1657c84bd242eb78ab6d18277fd4e459a40eb08088d224d4b8e9dd6e1"
 }
