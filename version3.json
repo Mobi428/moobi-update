@@ -5,6 +5,6 @@
   "apkUrlMirror": "https://gitee.com/api/v5/repos/novel-archive/moobi-writer-archive/raw/mirror/tavern-v0.8.11.apk",
   "note": "v0.8.11：fix(开局): 「开始游戏」防连点 v0.8.11",
   "apkUrlOss": "https://apk.mobi428.top/releases/tavern-v0.8.11-ftaa00xmn6.apk",
-  "released_by": "release.sh@0.8.10",
-  "released_sig": "8332abf1657c84bd242eb78ab6d18277fd4e459a40eb08088d224d4b8e9dd6e1"
+  "released_by": "release.sh@0.8.11",
+  "released_sig": "275612ddfbf17f5748c6952e5dbdde20156ef5d62e096eb83cc08bf42b7928a3"
 }
