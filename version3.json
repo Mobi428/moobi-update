@@ -1,9 +1,9 @@
 {
   "version": "0.8.9",
   "code": "moobi-tavern-3f8a21c6",
-  "apkUrl": "https://api.github.com/repos/Mobi428/moobi-apk/releases/assets/625708946",
+  "apkUrl": "https://api.github.com/repos/Mobi428/moobi-apk/releases/assets/625915628",
   "apkUrlMirror": "https://gitee.com/api/v5/repos/novel-archive/moobi-writer-archive/raw/mirror/tavern-v0.8.9.apk",
-  "note": "v0.8.8：版本号 0.8.8（装备系统发版前）",
+  "note": "v0.8.9：release: 版本号 0.8.8 → 0.8.9（四处落点同步）",
   "apkUrlOss": "https://apk.mobi428.top/releases/tavern-v0.8.9-6v3g8a7fbs.apk",
   "released_by": "release.sh@0.8.8",
   "released_sig": "45b1a1622e1aa1c8ec66a275ba56bf2e155e46053a04f59a1aa5fdc5dc19b58f"
