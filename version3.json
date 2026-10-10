@@ -5,6 +5,6 @@
   "apkUrlMirror": "https://gitee.com/api/v5/repos/novel-archive/moobi-writer-archive/raw/mirror/tavern-v0.8.14.apk",
   "note": "v0.8.14：chore(release): 版本号 0.8.13 -> 0.8.14",
   "apkUrlOss": "https://apk.mobi428.top/releases/tavern-v0.8.14-h18ojeqvh4.apk",
-  "released_by": "release.sh@0.8.13",
-  "released_sig": "b77524df4050735aa8500a2d9d522b67694a974a654da8ceff307308b027969b"
+  "released_by": "release.sh@0.8.14",
+  "released_sig": "a2accc2007dbe7e0a261cf7c8fa2487cd58055937e9edce0b36d871204dc7703"
 }
