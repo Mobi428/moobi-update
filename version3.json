@@ -1,9 +1,9 @@
 {
   "version": "0.8.13",
   "code": "moobi-tavern-3f8a21c6",
-  "apkUrl": "https://api.github.com/repos/Mobi428/moobi-apk/releases/assets/626157422",
+  "apkUrl": "https://api.github.com/repos/Mobi428/moobi-apk/releases/assets/628803020",
   "apkUrlMirror": "https://gitee.com/api/v5/repos/novel-archive/moobi-writer-archive/raw/mirror/tavern-v0.8.13.apk",
-  "note": "v0.8.12：fix(开局): 开场文不再说两遍 v0.8.12",
+  "note": "v0.8.13：chore(release): 版本号 0.8.12 -> 0.8.13（叙事框架改造发版）",
   "apkUrlOss": "https://apk.mobi428.top/releases/tavern-v0.8.13-ttg7v55k4d.apk",
   "released_by": "release.sh@0.8.12",
   "released_sig": "98e65c464471d4780c5878274a051634a0180e8980439d3bf0a933e0535ed173"
