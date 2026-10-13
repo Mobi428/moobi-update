@@ -5,6 +5,6 @@
   "apkUrlMirror": "https://gitee.com/api/v5/repos/novel-archive/moobi-writer-archive/raw/mirror/tavern-v0.8.17.apk",
   "note": "v0.8.17：判定加实力差（引擎接管加值 + 对抗检定 + 实力差闸）+ 骰子条对抗展示",
   "apkUrlOss": "https://apk.mobi428.top/releases/tavern-v0.8.17-4yjb56wg5p.apk",
-  "released_by": "release.sh@0.8.15",
-  "released_sig": "d2a12695c05f7b031f4e8ea0556a9480fe78db7b48d2ca39c14d881138409a66"
+  "released_by": "release.sh@0.8.17",
+  "released_sig": "a315d46e9de8a3c46b81c3bfed3ee5877f96bd3033634f491c85035dd4862ef2"
 }
