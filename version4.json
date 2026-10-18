@@ -1,8 +1,8 @@
 {
-  "version": "0.1.1",
+  "version": "0.1.2",
   "code": "moobi-dsh-6b3f92d1",
-  "apkUrl": "https://dsh.mobi428.top/dl/dsh-v0.1.1.apk",
+  "apkUrl": "https://dsh.mobi428.top/dl/dsh-v0.1.2.apk",
   "apkUrlMirror": "",
-  "note": "v0.1.1：新增「检查更新」按钮，App 内直接下载安装",
-  "apkUrlOss": "https://dsh.mobi428.top/dl/dsh-v0.1.1.apk"
+  "note": "v0.1.2：粘贴容错（空白/换行/裸口令/裸域名都能认）",
+  "apkUrlOss": "https://dsh.mobi428.top/dl/dsh-v0.1.2.apk"
 }
