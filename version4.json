@@ -1,8 +1,8 @@
 {
-  "version": "0.1.4",
+  "version": "0.1.5",
   "code": "moobi-dsh-6b3f92d1",
   "apkUrl": "https://dsh.mobi428.top/dl/dsh-latest.apk",
-  "apkUrlMirror": "",
+  "apkUrlMirror": "https://gitee.com/api/v5/repos/novel-archive/moobi-writer-archive/raw/mirror/dsh-v0.1.5.apk",
   "note": "v0.1.4：直载界面，点开即进；启动自动查更新",
   "apkUrlOss": "https://dsh.mobi428.top/dl/dsh-latest.apk"
 }
