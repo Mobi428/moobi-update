@@ -5,6 +5,6 @@
   "apkUrlMirror": "https://gitee.com/api/v5/repos/novel-archive/moobi-writer-archive/raw/mirror/dsh-v0.1.7.apk",
   "note": "v0.1.7：诊断版（console 回传）",
   "apkUrlOss": "https://dsh.mobi428.top/dl/dsh-latest.apk",
-  "released_by": "release.sh@0.1.6",
-  "released_sig": "c19e3bbc75126e1e732e2a6f2ca746a7de396d822827dbd82a55b2318e78c971"
+  "released_by": "release.sh@0.1.7",
+  "released_sig": "29838c8eedd30d1361fa343ae3d198fb27927d5820535c229969f2bde7c1bcff"
 }
