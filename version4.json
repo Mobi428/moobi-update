@@ -1,9 +1,9 @@
 {
   "version": "0.1.7",
   "code": "moobi-dsh-6b3f92d1",
-  "apkUrl": "https://api.github.com/repos/Mobi428/moobi-apk/releases/assets/654415521",
+  "apkUrl": "https://api.github.com/repos/Mobi428/moobi-apk/releases/assets/654582055",
   "apkUrlMirror": "https://gitee.com/api/v5/repos/novel-archive/moobi-writer-archive/raw/mirror/dsh-v0.1.7.apk",
-  "note": "v0.1.6：关 captureInput（输入法文字进不去 WebView 的根因）",
+  "note": "v0.1.7：诊断版（console 回传）",
   "apkUrlOss": "https://dsh.mobi428.top/dl/dsh-latest.apk",
   "released_by": "release.sh@0.1.6",
   "released_sig": "c19e3bbc75126e1e732e2a6f2ca746a7de396d822827dbd82a55b2318e78c971"
