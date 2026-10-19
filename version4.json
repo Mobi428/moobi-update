@@ -1,9 +1,9 @@
 {
   "version": "0.1.10",
   "code": "moobi-dsh-6b3f92d1",
-  "apkUrl": "https://api.github.com/repos/Mobi428/moobi-apk/releases/assets/654765275",
+  "apkUrl": "https://api.github.com/repos/Mobi428/moobi-apk/releases/assets/654814101",
   "apkUrlMirror": "https://gitee.com/api/v5/repos/novel-archive/moobi-writer-archive/raw/mirror/dsh-v0.1.10.apk",
-  "note": "v0.1.9：chore(release): 0.1.9 版本号",
+  "note": "v0.1.10：revert(style): 恢复标准封面三件套（过封面硬闸门），本版只留埋点",
   "apkUrlOss": "https://dsh.mobi428.top/dl/dsh-latest.apk",
   "released_by": "release.sh@0.1.9",
   "released_sig": "972cbdfc41dcdd8782153a18e1502db07511165068ce6d4bef7d18612d12cf55"
