@@ -5,6 +5,6 @@
   "apkUrlMirror": "https://gitee.com/api/v5/repos/novel-archive/moobi-writer-archive/raw/mirror/dsh-v0.1.13.apk",
   "note": "v0.1.13：chore(release): 0.1.13",
   "apkUrlOss": "https://dsh.mobi428.top/dl/dsh-latest.apk",
-  "released_by": "release.sh@0.1.11",
-  "released_sig": "8f50324dfe32ce7151082a560b9c642ce0fc6dd2929222bc3384ea29d75e8560"
+  "released_by": "release.sh@0.1.13",
+  "released_sig": "e80d2baf53e788b5274f25ff96acc95e443b6f840f396ccf31cb4c9fcc6197eb"
 }
