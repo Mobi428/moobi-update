@@ -5,6 +5,6 @@
   "note": "v0.4.11：chore(release): 0.4.11",
   "apkUrlMirror": "https://gitee.com/api/v5/repos/novel-archive/moobi-writer-archive/raw/mirror/moobi-reply-v0.4.11.apk",
   "apkUrlOss": "https://apk.mobi428.top/releases/moobi-reply-v0.4.11-i1h4bouvrs.apk",
-  "released_by": "release.sh@0.4.9",
-  "released_sig": "373723a5ce365c5ec711447af88253fc28c3c70dbc22c2a10c238a77d125efdb"
+  "released_by": "release.sh@0.4.11",
+  "released_sig": "b3a2b35fbd708879b231fd734ed344622792dd59d0abf760bd81824ba5233ca1"
 }
