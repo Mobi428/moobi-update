@@ -5,6 +5,6 @@
   "apkUrlMirror": "https://gitee.com/api/v5/repos/novel-archive/moobi-writer-archive/raw/mirror/dsh-v0.1.14.apk",
   "note": "v0.1.14：chore(release): 0.1.14 单页开屏",
   "apkUrlOss": "https://apk.mobi428.top/releases/dsh-v0.1.14-q7k13mx53p.apk",
-  "released_by": "release.sh@0.1.13",
-  "released_sig": "e80d2baf53e788b5274f25ff96acc95e443b6f840f396ccf31cb4c9fcc6197eb"
+  "released_by": "release.sh@0.1.14",
+  "released_sig": "2271a9e36ff496d892a748da7580c7e0bbbf8557c33374624c5431076f3b80b7"
 }
