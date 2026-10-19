@@ -1,10 +1,10 @@
 {
   "version": "0.1.13",
   "code": "moobi-dsh-6b3f92d1",
-  "apkUrl": "https://api.github.com/repos/Mobi428/moobi-apk/releases/assets/655527619",
-  "apkUrlMirror": "https://gitee.com/api/v5/repos/novel-archive/moobi-writer-archive/raw/mirror/dsh-v0.1.13.apk",
-  "note": "v0.1.13：chore(release): 0.1.13",
-  "apkUrlOss": "https://dsh.mobi428.top/dl/dsh-latest.apk",
+  "apkUrl": "https://apk.mobi428.top/releases/dsh-v0.1.13.apk",
+  "apkUrlMirror": "",
+  "note": "v0.1.13 走阿里云 OSS 直链（与软件1/2 同链路）",
+  "apkUrlOss": "https://apk.mobi428.top/releases/dsh-v0.1.13.apk",
   "released_by": "release.sh@0.1.13",
   "released_sig": "e80d2baf53e788b5274f25ff96acc95e443b6f840f396ccf31cb4c9fcc6197eb"
 }
