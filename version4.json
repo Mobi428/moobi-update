@@ -5,6 +5,6 @@
   "apkUrlMirror": "https://gitee.com/api/v5/repos/novel-archive/moobi-writer-archive/raw/mirror/dsh-v0.1.11.apk",
   "note": "v0.1.11：chore(release): 0.1.11（纯黑启动屏 + 埋点）",
   "apkUrlOss": "https://dsh.mobi428.top/dl/dsh-latest.apk",
-  "released_by": "release.sh@0.1.9",
-  "released_sig": "972cbdfc41dcdd8782153a18e1502db07511165068ce6d4bef7d18612d12cf55"
+  "released_by": "release.sh@0.1.11",
+  "released_sig": "8f50324dfe32ce7151082a560b9c642ce0fc6dd2929222bc3384ea29d75e8560"
 }
