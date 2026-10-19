@@ -5,6 +5,6 @@
   "note": "v0.4.8：chore(release): 0.4.8 版本号",
   "apkUrlMirror": "https://gitee.com/api/v5/repos/novel-archive/moobi-writer-archive/raw/mirror/moobi-reply-v0.4.8.apk",
   "apkUrlOss": "https://apk.mobi428.top/releases/moobi-reply-v0.4.8-xv3kjjyv2n.apk",
-  "released_by": "release.sh@0.4.7",
-  "released_sig": "6acc003849ab6c81741734be999ef023612d2da87d581b28ceff165b053b08f9"
+  "released_by": "release.sh@0.4.8",
+  "released_sig": "e7baa49896f1c50af5e7d6b0d442e01ffc0a6689eeaf4d9a4169a4c404510c08"
 }
