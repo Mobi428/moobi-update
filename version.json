@@ -1,9 +1,9 @@
 {
-  "version": "1.17.29",
+  "version": "1.17.30",
   "code": "moobi-9f2c17d4",
   "apkUrl": "https://api.github.com/repos/Mobi428/moobi-apk/releases/assets/601819035",
-  "apkUrlMirror": "https://gitee.com/api/v5/repos/novel-archive/moobi-writer-archive/raw/mirror/moobi-writer-v1.17.29.apk",
+  "apkUrlMirror": "https://gitee.com/api/v5/repos/novel-archive/moobi-writer-archive/raw/mirror/moobi-writer-v1.17.30.apk",
   "note": "小说线恢复（2026-10-18）：仓库恢复，v1.17.29 为下线前最后一版，暂未重新发版。",
-  "apkUrlOss": "https://apk.mobi428.top/releases/moobi-writer-v1.17.29-jkkpr6w1j4.apk",
+  "apkUrlOss": "https://apk.mobi428.top/releases/moobi-writer-v1.17.30-sug0u0qbtl.apk",
   "released_by": "release.sh@1.17.29"
 }
