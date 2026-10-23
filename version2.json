@@ -5,6 +5,6 @@
   "note": "v0.4.12：ui: 日志行去掉通用分隔线（收尾）",
   "apkUrlMirror": "https://gitee.com/api/v5/repos/novel-archive/moobi-writer-archive/raw/mirror/moobi-reply-v0.4.12.apk",
   "apkUrlOss": "https://apk.mobi428.top/releases/moobi-reply-v0.4.12-izwva2ee32.apk",
-  "released_by": "release.sh@0.4.11",
-  "released_sig": "b3a2b35fbd708879b231fd734ed344622792dd59d0abf760bd81824ba5233ca1"
+  "released_by": "release.sh@0.4.12",
+  "released_sig": "00d63ebaff46925228abdbe211df1bed78816cbab5b3b7549d3f1a7da27b208d"
 }
