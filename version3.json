@@ -1,9 +1,9 @@
 {
   "version": "0.8.18",
   "code": "moobi-tavern-3f8a21c6",
-  "apkUrl": "https://api.github.com/repos/Mobi428/moobi-apk/releases/assets/637218819",
+  "apkUrl": "https://api.github.com/repos/Mobi428/moobi-apk/releases/assets/669482498",
   "apkUrlMirror": "https://gitee.com/api/v5/repos/novel-archive/moobi-writer-archive/raw/mirror/tavern-v0.8.18.apk",
-  "note": "v0.8.17：判定加实力差（引擎接管加值 + 对抗检定 + 实力差闸）+ 骰子条对抗展示",
+  "note": "v0.8.18：release: 版本号 0.8.18",
   "apkUrlOss": "https://apk.mobi428.top/releases/tavern-v0.8.18-u9rkau8f12.apk",
   "released_by": "release.sh@0.8.17",
   "released_sig": "a315d46e9de8a3c46b81c3bfed3ee5877f96bd3033634f491c85035dd4862ef2"
