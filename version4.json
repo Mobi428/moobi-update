@@ -5,6 +5,6 @@
   "apkUrlMirror": "https://gitee.com/api/v5/repos/novel-archive/moobi-writer-archive/raw/mirror/dsh-v0.1.17.apk",
   "note": "v0.1.17：版本号跟到 0.1.17（versionName/versionCode）",
   "apkUrlOss": "https://apk.mobi428.top/releases/dsh-v0.1.17-drz74uvc5x.apk",
-  "released_by": "release.sh@0.1.16",
-  "released_sig": "bb796227d245d0c7129858a48bd10b2547e3467b275bc8d8c8adb48a744d8c9b"
+  "released_by": "release.sh@0.1.17",
+  "released_sig": "d12f6166ac852c14df8dd85a8b5a6b88a9e0ebb0d5081f35e841ec82a31d0720"
 }
