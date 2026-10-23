@@ -1,10 +1,10 @@
 {
-  "version": "0.4.12",
+  "version": "0.4.13",
   "code": "moobi-reply",
   "apkUrl": "https://api.github.com/repos/Mobi428/moobi-apk/releases/assets/668614125",
   "note": "v0.4.12：ui: 日志行去掉通用分隔线（收尾）",
-  "apkUrlMirror": "https://gitee.com/api/v5/repos/novel-archive/moobi-writer-archive/raw/mirror/moobi-reply-v0.4.12.apk",
-  "apkUrlOss": "https://apk.mobi428.top/releases/moobi-reply-v0.4.12-izwva2ee32.apk",
+  "apkUrlMirror": "https://gitee.com/api/v5/repos/novel-archive/moobi-writer-archive/raw/mirror/moobi-reply-v0.4.13.apk",
+  "apkUrlOss": "https://apk.mobi428.top/releases/moobi-reply-v0.4.13-ejvu9a4lxw.apk",
   "released_by": "release.sh@0.4.12",
   "released_sig": "00d63ebaff46925228abdbe211df1bed78816cbab5b3b7549d3f1a7da27b208d"
 }
