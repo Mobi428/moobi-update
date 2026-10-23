@@ -5,6 +5,6 @@
   "note": "v0.4.14：本次更新详见《决策日志.md》。",
   "apkUrlMirror": "https://gitee.com/api/v5/repos/novel-archive/moobi-writer-archive/raw/mirror/moobi-reply-v0.4.14.apk",
   "apkUrlOss": "https://apk.mobi428.top/releases/moobi-reply-v0.4.14-lc7hcnw3eh.apk",
-  "released_by": "release.sh@0.4.13",
-  "released_sig": "5031f8e09505d8cb7f8185ade1a64fcfb52b64a31c3ba17cc11fa3839288ef51"
+  "released_by": "release.sh@0.4.14",
+  "released_sig": "cffb2959bc22327a7c508e5a5f52d7a917aa3a0c819f7079cbb6bbea11c8adbb"
 }
