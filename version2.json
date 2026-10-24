@@ -1,8 +1,8 @@
 {
   "version": "0.4.16",
   "code": "moobi-reply",
-  "apkUrl": "https://api.github.com/repos/Mobi428/moobi-apk/releases/assets/669006678",
-  "note": "v0.4.15：(4015)",
+  "apkUrl": "https://api.github.com/repos/Mobi428/moobi-apk/releases/assets/671831684",
+  "note": "v0.4.16：fix(ui): 补回被删的 setText 工具函数（余额/到期看板全哑）；precheck 加「调用未定义函数」牙",
   "apkUrlMirror": "https://gitee.com/api/v5/repos/novel-archive/moobi-writer-archive/raw/mirror/moobi-reply-v0.4.16.apk",
   "apkUrlOss": "https://apk.mobi428.top/releases/moobi-reply-v0.4.16-mz4foxjopv.apk",
   "released_by": "release.sh@0.4.15",
