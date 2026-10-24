@@ -5,6 +5,6 @@
   "note": "v0.4.16：fix(ui): 补回被删的 setText 工具函数（余额/到期看板全哑）；precheck 加「调用未定义函数」牙",
   "apkUrlMirror": "https://gitee.com/api/v5/repos/novel-archive/moobi-writer-archive/raw/mirror/moobi-reply-v0.4.16.apk",
   "apkUrlOss": "https://apk.mobi428.top/releases/moobi-reply-v0.4.16-mz4foxjopv.apk",
-  "released_by": "release.sh@0.4.15",
-  "released_sig": "7980c7a08aa29881bd7b52d929edbc13489e5db4844c8d3c9a6f78c3e0c6f0a4"
+  "released_by": "release.sh@0.4.16",
+  "released_sig": "ed8e77fdb8b97f3e78c6542dcbda14eefda68adc52d0bf8b1045cdb456804775"
 }
