@@ -1,10 +1,10 @@
 {
-  "version": "1.17.30",
+  "version": "1.17.31",
   "code": "moobi-9f2c17d4",
   "apkUrl": "https://api.github.com/repos/Mobi428/moobi-apk/releases/assets/669516474",
-  "apkUrlMirror": "https://gitee.com/api/v5/repos/novel-archive/moobi-writer-archive/raw/mirror/moobi-writer-v1.17.30.apk",
+  "apkUrlMirror": "https://gitee.com/api/v5/repos/novel-archive/moobi-writer-archive/raw/mirror/moobi-writer-v1.17.31.apk",
   "note": "v1.17.30：release: 版本号 1.17.30",
-  "apkUrlOss": "https://apk.mobi428.top/releases/moobi-writer-v1.17.30-sug0u0qbtl.apk",
+  "apkUrlOss": "https://apk.mobi428.top/releases/moobi-writer-v1.17.31-5a1k9b8w3s.apk",
   "released_by": "release.sh@1.17.30",
   "released_sig": "66baafa2630dd2d287ec6682d82fab414a88e3bf06cc5dc00245ff4a901a7e5e"
 }
