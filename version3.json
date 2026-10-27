@@ -5,6 +5,6 @@
   "apkUrlMirror": "https://gitee.com/api/v5/repos/novel-archive/moobi-writer-archive/raw/mirror/tavern-v0.9.0.apk",
   "note": "v0.9.0：feat(0.9.0): 界面换 OPS，补齐构建契约（识别码/开屏/更新模块/安卓资源同步）",
   "apkUrlOss": "https://apk.mobi428.top/releases/tavern-v0.9.0-vyqdl4crzk.apk",
-  "released_by": "release.sh@0.8.19",
-  "released_sig": "e1f2886b001f637934308e04b9664c86550d2342deaca5ab40dca1f1dc20f2fb"
+  "released_by": "release.sh@0.9.0",
+  "released_sig": "2e187c2e4711affdbc2ca9dfc93bbf4a5bd3715852868f78929ff140af281f32"
 }
