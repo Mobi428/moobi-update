@@ -5,6 +5,6 @@
   "apkUrlMirror": "https://gitee.com/api/v5/repos/novel-archive/moobi-writer-archive/raw/mirror/tavern-v0.9.1.apk",
   "note": "v0.9.1：fix(0.9.1): 收尾三件 —— 删空壳测试 / 接口地址收成一处 / 修更新提示（清单源改回 + 识别码校验）",
   "apkUrlOss": "https://apk.mobi428.top/releases/tavern-v0.9.1-o5fv2qym37.apk",
-  "released_by": "release.sh@0.9.0",
-  "released_sig": "2e187c2e4711affdbc2ca9dfc93bbf4a5bd3715852868f78929ff140af281f32"
+  "released_by": "release.sh@0.9.1",
+  "released_sig": "c76e4651ea8e354b767714d9c35c4e4ead619346f3f1c63014e75a80e5fdcd57"
 }
