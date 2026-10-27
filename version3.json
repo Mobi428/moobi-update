@@ -1,9 +1,9 @@
 {
   "version": "0.9.0",
   "code": "moobi-tavern-3f8a21c6",
-  "apkUrl": "https://api.github.com/repos/Mobi428/moobi-apk/releases/assets/681789419",
+  "apkUrl": "https://api.github.com/repos/Mobi428/moobi-apk/releases/assets/682927480",
   "apkUrlMirror": "https://gitee.com/api/v5/repos/novel-archive/moobi-writer-archive/raw/mirror/tavern-v0.9.0.apk",
-  "note": "v0.8.19：release: 版本号 0.8.19（三处权威落点同步）",
+  "note": "v0.9.0：feat(0.9.0): 界面换 OPS，补齐构建契约（识别码/开屏/更新模块/安卓资源同步）",
   "apkUrlOss": "https://apk.mobi428.top/releases/tavern-v0.9.0-vyqdl4crzk.apk",
   "released_by": "release.sh@0.8.19",
   "released_sig": "e1f2886b001f637934308e04b9664c86550d2342deaca5ab40dca1f1dc20f2fb"
