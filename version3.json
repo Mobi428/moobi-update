@@ -1,9 +1,9 @@
 {
   "version": "0.9.3",
   "code": "moobi-tavern-3f8a21c6",
-  "apkUrl": "https://api.github.com/repos/Mobi428/moobi-apk/releases/assets/684003497",
+  "apkUrl": "https://api.github.com/repos/Mobi428/moobi-apk/releases/assets/685107360",
   "apkUrlMirror": "https://gitee.com/api/v5/repos/novel-archive/moobi-writer-archive/raw/mirror/tavern-v0.9.3.apk",
-  "note": "v0.9.2：fix(0.9.2): 白名单注释别用连字符线（XML 注释里不许出现连续短横，aapt 直接编译失败）",
+  "note": "v0.9.3：feat(0.9.3): 手机端外壳适配（安全区/软键盘/返回键/开屏）+ 保自动更新断言",
   "apkUrlOss": "https://apk.mobi428.top/releases/tavern-v0.9.3-tdp3fnhbcs.apk",
   "released_by": "release.sh@0.9.2",
   "released_sig": "3fe6716e6740393f9b833f5b358901be0893fe9604478ba63014a65acd615826"
