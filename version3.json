@@ -1,9 +1,9 @@
 {
   "version": "0.9.4",
   "code": "moobi-tavern-3f8a21c6",
-  "apkUrl": "https://api.github.com/repos/Mobi428/moobi-apk/releases/assets/685107360",
+  "apkUrl": "https://api.github.com/repos/Mobi428/moobi-apk/releases/assets/685330339",
   "apkUrlMirror": "https://gitee.com/api/v5/repos/novel-archive/moobi-writer-archive/raw/mirror/tavern-v0.9.4.apk",
-  "note": "v0.9.3：feat(0.9.3): 手机端外壳适配（安全区/软键盘/返回键/开屏）+ 保自动更新断言",
+  "note": "v0.9.4：feat(0.9.4): 手机端界面重做（最新基线 c0f402b2）+ 旁白粗体渲染",
   "apkUrlOss": "https://apk.mobi428.top/releases/tavern-v0.9.4-nkksreb0l.apk",
   "released_by": "release.sh@0.9.3",
   "released_sig": "9919adf5676c6497d860b4e59f587b3ec6695ccdb4610cde52e8f8afc8413482"
