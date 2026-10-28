@@ -1,10 +1,10 @@
 {
-  "version": "0.9.5",
+  "version": "0.9.6",
   "code": "moobi-tavern-3f8a21c6",
   "apkUrl": "https://api.github.com/repos/Mobi428/moobi-apk/releases/assets/685825063",
-  "apkUrlMirror": "https://gitee.com/api/v5/repos/novel-archive/moobi-writer-archive/raw/mirror/tavern-v0.9.5.apk",
+  "apkUrlMirror": "https://gitee.com/api/v5/repos/novel-archive/moobi-writer-archive/raw/mirror/tavern-v0.9.6.apk",
   "note": "v0.9.5：fix(0.9.5): 创建对局页全中文 —— 空词表补全 + 装备名走翻译",
-  "apkUrlOss": "https://apk.mobi428.top/releases/tavern-v0.9.5-lt7mk6alih.apk",
+  "apkUrlOss": "https://apk.mobi428.top/releases/tavern-v0.9.6-0cc5m98sx1.apk",
   "released_by": "release.sh@0.9.5",
   "released_sig": "b556ff5f03193499dede3ea18c65bc22dfd9cdf6862c5773b85bd08ef8ff8f4b"
 }
