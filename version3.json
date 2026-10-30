@@ -5,6 +5,6 @@
   "apkUrlMirror": "https://gitee.com/api/v5/repos/novel-archive/moobi-writer-archive/raw/mirror/tavern-v0.9.9.apk",
   "note": "v0.9.9：修：对话末行留白 54px→18px（末条 margin 与外层 padding 叠加），版本升 0.9.9",
   "apkUrlOss": "https://apk.mobi428.top/releases/tavern-v0.9.9-hndvm2un38.apk",
-  "released_by": "release.sh@0.9.8",
-  "released_sig": "013550bced57a3923ec46ccdf37040729172e3ffb856828e4edee1e51c3128b8"
+  "released_by": "release.sh@0.9.9",
+  "released_sig": "14f0271ce66c2c406bf6c70181b8889381ee0536a5e412f1a005adb13e0e2db2"
 }
