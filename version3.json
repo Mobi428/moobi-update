@@ -5,6 +5,6 @@
   "apkUrlMirror": "https://gitee.com/api/v5/repos/novel-archive/moobi-writer-archive/raw/mirror/tavern-v0.9.11.apk",
   "note": "v0.9.11：修：底部白边真因——WebView/系统栏底色默认白，钉成 --ink 深色（0.9.11）",
   "apkUrlOss": "https://apk.mobi428.top/releases/tavern-v0.9.11-56qar5rv0k.apk",
-  "released_by": "release.sh@0.9.10",
-  "released_sig": "62f5782175ffc17849749c3be8dc87c6884ecfaec3c8b0c49de218cf48d62881"
+  "released_by": "release.sh@0.9.11",
+  "released_sig": "25b9cb5f6137170a7a62d10456d8dc9d2c5e7978f4657245b7d4f41a2339bdd8"
 }
