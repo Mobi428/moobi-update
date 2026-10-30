@@ -5,6 +5,6 @@
   "apkUrlMirror": "https://gitee.com/api/v5/repos/novel-archive/moobi-writer-archive/raw/mirror/tavern-v0.9.10.apk",
   "note": "v0.9.10：修：末行留白 18→10px，版本升 0.9.10",
   "apkUrlOss": "https://apk.mobi428.top/releases/tavern-v0.9.10-h0nd9km5m9.apk",
-  "released_by": "release.sh@0.9.9",
-  "released_sig": "14f0271ce66c2c406bf6c70181b8889381ee0536a5e412f1a005adb13e0e2db2"
+  "released_by": "release.sh@0.9.10",
+  "released_sig": "62f5782175ffc17849749c3be8dc87c6884ecfaec3c8b0c49de218cf48d62881"
 }
