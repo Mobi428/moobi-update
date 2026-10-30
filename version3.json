@@ -1,10 +1,10 @@
 {
-  "version": "0.9.9",
+  "version": "0.9.10",
   "code": "moobi-tavern-3f8a21c6",
   "apkUrl": "https://api.github.com/repos/Mobi428/moobi-apk/releases/assets/692920010",
-  "apkUrlMirror": "https://gitee.com/api/v5/repos/novel-archive/moobi-writer-archive/raw/mirror/tavern-v0.9.9.apk",
+  "apkUrlMirror": "https://gitee.com/api/v5/repos/novel-archive/moobi-writer-archive/raw/mirror/tavern-v0.9.10.apk",
   "note": "v0.9.9：修：对话末行留白 54px→18px（末条 margin 与外层 padding 叠加），版本升 0.9.9",
-  "apkUrlOss": "https://apk.mobi428.top/releases/tavern-v0.9.9-hndvm2un38.apk",
+  "apkUrlOss": "https://apk.mobi428.top/releases/tavern-v0.9.10-h0nd9km5m9.apk",
   "released_by": "release.sh@0.9.9",
   "released_sig": "14f0271ce66c2c406bf6c70181b8889381ee0536a5e412f1a005adb13e0e2db2"
 }
