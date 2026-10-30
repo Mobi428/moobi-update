@@ -1,9 +1,9 @@
 {
   "version": "0.9.7",
   "code": "moobi-tavern-3f8a21c6",
-  "apkUrl": "https://api.github.com/repos/Mobi428/moobi-apk/releases/assets/686598911",
+  "apkUrl": "https://api.github.com/repos/Mobi428/moobi-apk/releases/assets/692188475",
   "apkUrlMirror": "https://gitee.com/api/v5/repos/novel-archive/moobi-writer-archive/raw/mirror/tavern-v0.9.7.apk",
-  "note": "v0.9.6：fix(precheck): https 接口不再按明文白名单判红",
+  "note": "v0.9.7：发版 0.9.7：角色卡抽屉补关闭按钮",
   "apkUrlOss": "https://apk.mobi428.top/releases/tavern-v0.9.7-u4fpjly8f9.apk",
   "released_by": "release.sh@0.9.6",
   "released_sig": "a6eee0bbbf1352ab4b340ef5c6844b415145bd93e3422312a46e4998d69265d1"
