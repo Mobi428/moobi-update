@@ -5,6 +5,6 @@
   "note": "v0.4.17：feat(ui): 槽位4 接入末世搜刮控制台（内嵌 dsh.mobi428.top/mm，懒加载）",
   "apkUrlMirror": "https://gitee.com/api/v5/repos/novel-archive/moobi-writer-archive/raw/mirror/moobi-reply-v0.4.17.apk",
   "apkUrlOss": "https://apk.mobi428.top/releases/moobi-reply-v0.4.17-k24eb60vr.apk",
-  "released_by": "release.sh@0.4.16",
-  "released_sig": "ed8e77fdb8b97f3e78c6542dcbda14eefda68adc52d0bf8b1045cdb456804775"
+  "released_by": "release.sh@0.4.17",
+  "released_sig": "3b64974310bcb25cf4c5ef1a7660910b669eccc0d9381f9c7c024d2e9b975be3"
 }
