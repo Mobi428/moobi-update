@@ -1,8 +1,8 @@
 {
   "version": "0.4.17",
   "code": "moobi-reply",
-  "apkUrl": "https://api.github.com/repos/Mobi428/moobi-apk/releases/assets/671831684",
-  "note": "v0.4.16：fix(ui): 补回被删的 setText 工具函数（余额/到期看板全哑）；precheck 加「调用未定义函数」牙",
+  "apkUrl": "https://api.github.com/repos/Mobi428/moobi-apk/releases/assets/701402539",
+  "note": "v0.4.17：feat(ui): 槽位4 接入末世搜刮控制台（内嵌 dsh.mobi428.top/mm，懒加载）",
   "apkUrlMirror": "https://gitee.com/api/v5/repos/novel-archive/moobi-writer-archive/raw/mirror/moobi-reply-v0.4.17.apk",
   "apkUrlOss": "https://apk.mobi428.top/releases/moobi-reply-v0.4.17-k24eb60vr.apk",
   "released_by": "release.sh@0.4.16",
