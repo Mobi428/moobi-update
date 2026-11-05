@@ -5,6 +5,6 @@
   "note": "v0.4.19：fix(build): 修 DownloadPlugin 头注释里 */* 提前闭合块注释",
   "apkUrlMirror": "https://gitee.com/api/v5/repos/novel-archive/moobi-writer-archive/raw/mirror/moobi-reply-v0.4.19.apk",
   "apkUrlOss": "https://apk.mobi428.top/releases/moobi-reply-v0.4.19-w4ib7ht95o.apk",
-  "released_by": "release.sh@0.4.18",
-  "released_sig": "35a1d452ac9f77277b83f8a400cff41cf1073aa8ed07fc1c2eb7e51b66034a18"
+  "released_by": "release.sh@0.4.19",
+  "released_sig": "c1ca98dbac9fb58d9911346aa98c9e4b4c9099da4a079a7a7accee385944c6b5"
 }
