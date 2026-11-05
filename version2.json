@@ -1,10 +1,10 @@
 {
-  "version": "0.4.18",
+  "version": "0.4.19",
   "code": "moobi-reply",
   "apkUrl": "https://api.github.com/repos/Mobi428/moobi-apk/releases/assets/713670533",
   "note": "v0.4.18：chore(version): 0.4.17 → 0.4.18（槽位5 每日目标发版）",
-  "apkUrlMirror": "https://gitee.com/api/v5/repos/novel-archive/moobi-writer-archive/raw/mirror/moobi-reply-v0.4.18.apk",
-  "apkUrlOss": "https://apk.mobi428.top/releases/moobi-reply-v0.4.18-37dpm3vcbp.apk",
+  "apkUrlMirror": "https://gitee.com/api/v5/repos/novel-archive/moobi-writer-archive/raw/mirror/moobi-reply-v0.4.19.apk",
+  "apkUrlOss": "https://apk.mobi428.top/releases/moobi-reply-v0.4.19-w4ib7ht95o.apk",
   "released_by": "release.sh@0.4.18",
   "released_sig": "35a1d452ac9f77277b83f8a400cff41cf1073aa8ed07fc1c2eb7e51b66034a18"
 }
