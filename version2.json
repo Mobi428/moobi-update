@@ -1,10 +1,10 @@
 {
-  "version": "0.4.17",
+  "version": "0.4.18",
   "code": "moobi-reply",
   "apkUrl": "https://api.github.com/repos/Mobi428/moobi-apk/releases/assets/701402539",
   "note": "v0.4.17：feat(ui): 槽位4 接入末世搜刮控制台（内嵌 dsh.mobi428.top/mm，懒加载）",
-  "apkUrlMirror": "https://gitee.com/api/v5/repos/novel-archive/moobi-writer-archive/raw/mirror/moobi-reply-v0.4.17.apk",
-  "apkUrlOss": "https://apk.mobi428.top/releases/moobi-reply-v0.4.17-k24eb60vr.apk",
+  "apkUrlMirror": "https://gitee.com/api/v5/repos/novel-archive/moobi-writer-archive/raw/mirror/moobi-reply-v0.4.18.apk",
+  "apkUrlOss": "https://apk.mobi428.top/releases/moobi-reply-v0.4.18-37dpm3vcbp.apk",
   "released_by": "release.sh@0.4.17",
   "released_sig": "3b64974310bcb25cf4c5ef1a7660910b669eccc0d9381f9c7c024d2e9b975be3"
 }
