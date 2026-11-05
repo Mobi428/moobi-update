@@ -5,6 +5,6 @@
   "note": "v0.4.18：chore(version): 0.4.17 → 0.4.18（槽位5 每日目标发版）",
   "apkUrlMirror": "https://gitee.com/api/v5/repos/novel-archive/moobi-writer-archive/raw/mirror/moobi-reply-v0.4.18.apk",
   "apkUrlOss": "https://apk.mobi428.top/releases/moobi-reply-v0.4.18-37dpm3vcbp.apk",
-  "released_by": "release.sh@0.4.17",
-  "released_sig": "3b64974310bcb25cf4c5ef1a7660910b669eccc0d9381f9c7c024d2e9b975be3"
+  "released_by": "release.sh@0.4.18",
+  "released_sig": "35a1d452ac9f77277b83f8a400cff41cf1073aa8ed07fc1c2eb7e51b66034a18"
 }
