@@ -1,8 +1,8 @@
 {
-  "version": "0.1.0",
+  "version": "0.1.1",
   "code": "moobi-arch",
   "apkUrl": "https://api.github.com/repos/Mobi428/moobi-apk/releases/assets/729311149",
-  "apkUrlMirror": "https://gitee.com/api/v5/repos/novel-archive/moobi-writer-archive/raw/mirror/moobi-arch-v0.1.0.apk",
-  "apkUrlOss": "https://apk.mobi428.top/releases/moobi-arch-v0.1.0-zed69x8xv5.apk",
+  "apkUrlMirror": "https://gitee.com/api/v5/repos/novel-archive/moobi-writer-archive/raw/mirror/moobi-arch-v0.1.1.apk",
+  "apkUrlOss": "https://apk.mobi428.top/releases/moobi-arch-v0.1.1-5y0qqmlk2t.apk",
   "note": "v0.1.0 首版：架构台（项目目录树 / 文档原文 / 段落标记）、控制台（方案 / 技能 / 素材 / 组件）、代码台（待建）、日志（仓库提交 + 服务器写入）、更多（记事 / 检查更新）"
 }
