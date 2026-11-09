@@ -1,8 +1,8 @@
 {
   "version": "0.1.0",
   "code": "moobi-arch",
-  "apkUrl": "",
+  "apkUrl": "https://api.github.com/repos/Mobi428/moobi-apk/releases/assets/729311149",
   "apkUrlMirror": "https://gitee.com/api/v5/repos/novel-archive/moobi-writer-archive/raw/mirror/moobi-arch-v0.1.0.apk",
   "apkUrlOss": "https://apk.mobi428.top/releases/moobi-arch-v0.1.0-zed69x8xv5.apk",
-  "note": "v0.1.0 首版：架构台 / 控制台 / 代码台 / 日志 / 更多（含记事）"
+  "note": "v0.1.0：fix(res): 启动主题不再引用未定义的 branding attr（aapt attr not found），改注释声明关键字"
 }
