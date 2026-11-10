@@ -1,8 +1,8 @@
 {
-  "version": "0.1.4",
+  "version": "0.1.5",
   "code": "moobi-arch",
   "apkUrl": "https://api.github.com/repos/Mobi428/moobi-apk/releases/assets/729652808",
-  "apkUrlMirror": "https://gitee.com/api/v5/repos/novel-archive/moobi-writer-archive/raw/mirror/moobi-arch-v0.1.4.apk",
-  "apkUrlOss": "https://apk.mobi428.top/releases/moobi-arch-v0.1.4-q01sany1sx.apk",
+  "apkUrlMirror": "https://gitee.com/api/v5/repos/novel-archive/moobi-writer-archive/raw/mirror/moobi-arch-v0.1.5.apk",
+  "apkUrlOss": "https://apk.mobi428.top/releases/moobi-arch-v0.1.5-974fybk9cf.apk",
   "note": "v0.1.4：网页已上锁，App 内置带钥匙的地址（打开即入，无需任何操作）；装这一版后，旧链接一律 401"
 }
