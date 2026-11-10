@@ -4,5 +4,5 @@
   "apkUrl": "https://api.github.com/repos/Mobi428/moobi-apk/releases/assets/729512693",
   "apkUrlMirror": "https://gitee.com/api/v5/repos/novel-archive/moobi-writer-archive/raw/mirror/moobi-arch-v0.1.2.apk",
   "apkUrlOss": "https://apk.mobi428.top/releases/moobi-arch-v0.1.2-qfd0y4p0gp.apk",
-  "note": "v0.1.2：v0.1.1 修启动封面：补上第二层完整封面（windowBackground=splash_cover）"
+  "note": "v0.1.2 更新走应用内通道：发现新版就地下载（带进度条）→ 下完直接调起安装器，不跳浏览器；「更多 → 检查更新」改为查装机版本，不再拿网页版本号糊弄"
 }
