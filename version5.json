@@ -4,5 +4,5 @@
   "apkUrl": "https://api.github.com/repos/Mobi428/moobi-apk/releases/assets/729919329",
   "apkUrlMirror": "https://gitee.com/api/v5/repos/novel-archive/moobi-writer-archive/raw/mirror/moobi-arch-v0.1.5.apk",
   "apkUrlOss": "https://apk.mobi428.top/releases/moobi-arch-v0.1.5-974fybk9cf.apk",
-  "note": "v0.1.5：0.1.5: onResume 可见性改 public（BridgeActivity 里是 public）"
+  "note": "v0.1.5：绑定一次这台手机，之后换 Wi-Fi / 换基站 / 换 5G 都不用再管（设备签名自动续 24 小时）"
 }
