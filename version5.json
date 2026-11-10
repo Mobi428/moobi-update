@@ -1,8 +1,8 @@
 {
-  "version": "0.1.1",
+  "version": "0.1.2",
   "code": "moobi-arch",
   "apkUrl": "https://api.github.com/repos/Mobi428/moobi-apk/releases/assets/729439747",
-  "apkUrlMirror": "https://gitee.com/api/v5/repos/novel-archive/moobi-writer-archive/raw/mirror/moobi-arch-v0.1.1.apk",
-  "apkUrlOss": "https://apk.mobi428.top/releases/moobi-arch-v0.1.1-5y0qqmlk2t.apk",
+  "apkUrlMirror": "https://gitee.com/api/v5/repos/novel-archive/moobi-writer-archive/raw/mirror/moobi-arch-v0.1.2.apk",
+  "apkUrlOss": "https://apk.mobi428.top/releases/moobi-arch-v0.1.2-qfd0y4p0gp.apk",
   "note": "v0.1.1 修启动封面：补上第二层完整封面（windowBackground=splash_cover）"
 }
