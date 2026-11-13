@@ -1,8 +1,8 @@
 {
-  "version": "0.0.0",
+  "version": "0.1.0",
   "code": "moobi-split",
   "apkUrl": "",
-  "apkUrlMirror": "",
-  "apkUrlOss": "",
+  "apkUrlMirror": "https://gitee.com/api/v5/repos/novel-archive/moobi-writer-archive/raw/mirror/split-v0.1.0.apk",
+  "apkUrlOss": "https://apk.mobi428.top/releases/split-v0.1.0-fvcun1liwl.apk",
   "note": "首版：会话拆解器（壳）"
 }
