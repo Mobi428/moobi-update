@@ -4,5 +4,7 @@
   "apkUrl": "https://api.github.com/repos/Mobi428/moobi-apk/releases/assets/745435234",
   "apkUrlMirror": "https://gitee.com/api/v5/repos/novel-archive/moobi-writer-archive/raw/mirror/split-v0.1.0.apk",
   "apkUrlOss": "https://apk.mobi428.top/releases/split-v0.1.0-fvcun1liwl.apk",
-  "note": "v0.1.0：修复若干已知问题，优化使用体验"
+  "note": "v0.1.0：修复若干已知问题，优化使用体验",
+  "released_by": "release.sh@0.1.0",
+  "released_sig": "43dafc5fdf8de53a92556c69050fdf1e217decc51c18b742c92cb0a92761aab0"
 }
