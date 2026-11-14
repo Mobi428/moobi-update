@@ -1,8 +1,8 @@
 {
   "version": "0.1.18",
   "code": "moobi-dsh",
-  "apkUrl": "https://api.github.com/repos/Mobi428/moobi-apk/releases/assets/657493270",
-  "note": "v0.1.17：版本号同步更新",
+  "apkUrl": "https://api.github.com/repos/Mobi428/moobi-apk/releases/assets/746951708",
+  "note": "v0.1.18：修复若干已知问题，优化使用体验",
   "apkUrlOss": "https://apk.mobi428.top/releases/dsh-v0.1.18-z20qlxd4t.apk",
   "released_by": "release.sh@0.1.17",
   "released_sig": "d12f6166ac852c14df8dd85a8b5a6b88a9e0ebb0d5081f35e841ec82a31d0720"
