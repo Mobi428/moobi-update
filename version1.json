@@ -4,6 +4,6 @@
   "apkUrl": "https://api.github.com/repos/Mobi428/moobi-apk/releases/assets/748562907",
   "note": "v0.4.21：修复若干已知问题，优化使用体验",
   "apkUrlOss": "https://apk.mobi428.top/releases/moobi-reply-v0.4.21-1vvq37vyjm.apk",
-  "released_by": "release.sh@0.4.20",
-  "released_sig": "48aa91e24230f71f9f72881540c5b9aef34ab91805a06e334490ff4bcb9e2bea"
+  "released_by": "release.sh@0.4.21",
+  "released_sig": "de2eacc26b3d211aec70ff9873da2223998a48d33e5abea57826953e0b5c0ac9"
 }
