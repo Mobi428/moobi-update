@@ -1,6 +1,6 @@
 {
   "version": "0.9.11",
-  "code": "moobi-tavern",
+  "code": "moobi-tavern-3f8a21c6",
   "apkUrl": "https://api.github.com/repos/Mobi428/moobi-apk/releases/assets/693032467",
   "apkUrlMirror": "https://gitee.com/api/v5/repos/novel-archive/moobi-writer-archive/raw/mirror/tavern-v0.9.11.apk",
   "note": "v0.9.11：修复底部白边显示异常",
