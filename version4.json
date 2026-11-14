@@ -4,6 +4,6 @@
   "apkUrl": "https://api.github.com/repos/Mobi428/moobi-apk/releases/assets/746960221",
   "apkUrlOss": "https://apk.mobi428.top/releases/moobi-arch-v0.1.8-w30yqptpl9.apk",
   "note": "v0.1.8：修复若干已知问题，优化使用体验",
-  "released_by": "release.sh@0.1.7",
-  "released_sig": "2bdb5b72163e679a9e18e23eb47f671e02fb1915ff94fcef3aed0aa77f62c62b"
+  "released_by": "release.sh@0.1.8",
+  "released_sig": "5f2d62a5370ed87c4fb884799f109c9623d1d7e4428a2cc7d96fbcd117b3cf7c"
 }
