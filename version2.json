@@ -4,6 +4,6 @@
   "apkUrl": "https://api.github.com/repos/Mobi428/moobi-apk/releases/assets/747006821",
   "note": "v0.9.12：修复若干已知问题，优化使用体验",
   "apkUrlOss": "https://apk.mobi428.top/releases/tavern-v0.9.12-u71ic1s4lp.apk",
-  "released_by": "release.sh@0.9.11",
-  "released_sig": "25b9cb5f6137170a7a62d10456d8dc9d2c5e7978f4657245b7d4f41a2339bdd8"
+  "released_by": "release.sh@0.9.12",
+  "released_sig": "d61ec9c71ac14fa60a605ee5132a96d0be29acd47c2dd391cc67d9787aeee9d3"
 }
