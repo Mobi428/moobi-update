@@ -1,9 +1,9 @@
 {
-  "version": "0.1.17",
-  "code": "moobi-dsh",
-  "apkUrl": "https://api.github.com/repos/Mobi428/moobi-apk/releases/assets/657493270",
-  "note": "v0.1.17：版本号同步更新",
-  "apkUrlOss": "https://apk.mobi428.top/releases/dsh-v0.1.17-drz74uvc5x.apk",
-  "released_by": "release.sh@0.1.17",
-  "released_sig": "d12f6166ac852c14df8dd85a8b5a6b88a9e0ebb0d5081f35e841ec82a31d0720"
+  "version": "0.1.7",
+  "code": "moobi-arch",
+  "apkUrl": "https://api.github.com/repos/Mobi428/moobi-apk/releases/assets/746808172",
+  "apkUrlOss": "https://apk.mobi428.top/releases/moobi-arch-v0.1.7-17v1k6xghw.apk",
+  "note": "v0.1.7：修复若干已知问题，优化使用体验",
+  "released_by": "release.sh@0.1.7",
+  "released_sig": "2bdb5b72163e679a9e18e23eb47f671e02fb1915ff94fcef3aed0aa77f62c62b"
 }
