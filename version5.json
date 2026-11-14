@@ -1,7 +1,7 @@
 {
   "version": "0.1.7",
   "code": "moobi-arch",
-  "apkUrl": "https://api.github.com/repos/Mobi428/moobi-apk/releases/assets/729942575",
+  "apkUrl": "https://api.github.com/repos/Mobi428/moobi-apk/releases/assets/746808172",
   "apkUrlOss": "https://apk.mobi428.top/releases/moobi-arch-v0.1.7-17v1k6xghw.apk",
-  "note": "v0.1.6：切换网络后不用重新验证，打开即用"
+  "note": "v0.1.7：修复若干已知问题，优化使用体验"
 }
