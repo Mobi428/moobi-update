@@ -1,8 +1,8 @@
 {
-  "version": "0.1.1",
+  "version": "0.1.2",
   "code": "moobi-split",
   "apkUrl": "https://api.github.com/repos/Mobi428/moobi-apk/releases/assets/746942939",
-  "apkUrlOss": "https://apk.mobi428.top/releases/split-v0.1.1-n9qe85syjt.apk",
+  "apkUrlOss": "https://apk.mobi428.top/releases/split-v0.1.2-gc7gzktqf4.apk",
   "note": "v0.1.1：修复若干已知问题，优化使用体验",
   "released_by": "release.sh@0.1.1",
   "released_sig": "bd9e944d826b196d707fa910428db6ac53da46dc7440b15e9fab1501db43f66a"
