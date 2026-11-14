@@ -1,9 +1,9 @@
 {
-  "version": "0.4.19",
+  "version": "0.4.20",
   "code": "moobi-reply",
   "apkUrl": "https://api.github.com/repos/Mobi428/moobi-apk/releases/assets/714106997",
   "note": "v0.4.19：修复下载功能偶发失败的问题",
-  "apkUrlOss": "https://apk.mobi428.top/releases/moobi-reply-v0.4.19-w4ib7ht95o.apk",
+  "apkUrlOss": "https://apk.mobi428.top/releases/moobi-reply-v0.4.20-wpmw3x6y0g.apk",
   "released_by": "release.sh@0.4.19",
   "released_sig": "c1ca98dbac9fb58d9911346aa98c9e4b4c9099da4a079a7a7accee385944c6b5"
 }
