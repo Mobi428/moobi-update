@@ -1,8 +1,8 @@
 {
   "version": "0.1.21",
   "code": "moobi-dsh",
-  "apkUrl": "https://api.github.com/repos/Mobi428/moobi-apk/releases/assets/749315414",
-  "note": "v0.1.20：发版 v0.1.20：带上更新兜底改动",
+  "apkUrl": "https://api.github.com/repos/Mobi428/moobi-apk/releases/assets/752437653",
+  "note": "v0.1.21：bump 0.1.20 -> 0.1.21（设备门禁发版）",
   "apkUrlOss": "https://apk.mobi428.top/releases/dsh-v0.1.21-a8cshiiv9u.apk",
   "released_by": "release.sh@0.1.20",
   "released_sig": "7de919feb91ab88735bd2ba53188187280e1ec1d9d25e9ae50305db1b475a1de"
