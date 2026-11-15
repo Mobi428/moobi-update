@@ -4,6 +4,6 @@
   "apkUrl": "https://api.github.com/repos/Mobi428/moobi-apk/releases/assets/749333196",
   "apkUrlOss": "https://apk.mobi428.top/releases/split-v0.1.3-oe6qq2n3ej.apk",
   "note": "v0.1.3：发版 v0.1.3：带上更新兜底改动",
-  "released_by": "release.sh@0.1.2",
-  "released_sig": "1bfdf0eac6f5eaf1c4f6233085cf7f0604e415939e2d7e35c2dfbfea513ec592"
+  "released_by": "release.sh@0.1.3",
+  "released_sig": "f449c73a0a3403fe382034a15714c6f4802ead65e1491b103050202308fb8fcc"
 }
