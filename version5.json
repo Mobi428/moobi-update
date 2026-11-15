@@ -4,6 +4,6 @@
   "apkUrl": "https://api.github.com/repos/Mobi428/moobi-apk/releases/assets/752378613",
   "apkUrlOss": "https://apk.mobi428.top/releases/split-v0.1.4-qbbh0sytum.apk",
   "note": "v0.1.4：bump 0.1.3 -> 0.1.4（设备门禁发版）",
-  "released_by": "release.sh@0.1.3",
-  "released_sig": "f449c73a0a3403fe382034a15714c6f4802ead65e1491b103050202308fb8fcc"
+  "released_by": "release.sh@0.1.4",
+  "released_sig": "b2eac9a3f50bd84569401523109482b78b43168cbcb57fc5d37016732e85ee8a"
 }
