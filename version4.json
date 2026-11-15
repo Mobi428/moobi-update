@@ -4,6 +4,6 @@
   "apkUrl": "https://api.github.com/repos/Mobi428/moobi-apk/releases/assets/749324222",
   "apkUrlOss": "https://apk.mobi428.top/releases/moobi-arch-v0.1.9-txfa2nbecq.apk",
   "note": "v0.1.9：发版 v0.1.9：带上更新兜底改动",
-  "released_by": "release.sh@0.1.8",
-  "released_sig": "5f2d62a5370ed87c4fb884799f109c9623d1d7e4428a2cc7d96fbcd117b3cf7c"
+  "released_by": "release.sh@0.1.9",
+  "released_sig": "187cf1cf4216a22b037f933165f748ebe1333b53cf67b481a8811900ed45868b"
 }
