@@ -4,6 +4,6 @@
   "apkUrl": "https://api.github.com/repos/Mobi428/moobi-apk/releases/assets/752427177",
   "note": "v0.4.24：bump 0.4.23 -> 0.4.24（设备门禁发版）",
   "apkUrlOss": "https://apk.mobi428.top/releases/moobi-reply-v0.4.24-l4c6o7xm8n.apk",
-  "released_by": "release.sh@0.4.23",
-  "released_sig": "1afe071679f3c13c743b586cb07ca80625195968bbfc677ea068eb69784589be"
+  "released_by": "release.sh@0.4.24",
+  "released_sig": "ad943e3c3dd3e6f1461984374bb664ab8d4fac2c2a7ab19b9abf841eb862127c"
 }
