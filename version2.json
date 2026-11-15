@@ -4,6 +4,6 @@
   "apkUrl": "https://api.github.com/repos/Mobi428/moobi-apk/releases/assets/749307574",
   "note": "v0.9.15：发版 v0.9.15：带上更新兜底改动",
   "apkUrlOss": "https://apk.mobi428.top/releases/tavern-v0.9.15-mtirh7sgak.apk",
-  "released_by": "release.sh@0.9.14",
-  "released_sig": "395914c8d04f6b3e2dd2fea9fcbc6e69185fc3af49dae8412dd3de0dfb41220e"
+  "released_by": "release.sh@0.9.15",
+  "released_sig": "a178e3c8b5563cb2de90e2fbd6e623503aaaa99b6c662b27a0ea97340ab1279b"
 }
