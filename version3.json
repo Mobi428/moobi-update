@@ -4,6 +4,6 @@
   "apkUrl": "https://api.github.com/repos/Mobi428/moobi-apk/releases/assets/752437653",
   "note": "v0.1.21：bump 0.1.20 -> 0.1.21（设备门禁发版）",
   "apkUrlOss": "https://apk.mobi428.top/releases/dsh-v0.1.21-a8cshiiv9u.apk",
-  "released_by": "release.sh@0.1.20",
-  "released_sig": "7de919feb91ab88735bd2ba53188187280e1ec1d9d25e9ae50305db1b475a1de"
+  "released_by": "release.sh@0.1.21",
+  "released_sig": "69fb3ad335817bd66d27d0b40db51ab9cad0cc9ec4551055a4a86b98b0db81a3"
 }
